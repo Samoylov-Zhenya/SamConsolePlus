@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SamSqlConsoleService" />
+			<Item Name="LocalizableStrings.BlockedWordsMessage.Value" Value="クエリに使用が禁止されている語句が含まれています: {0}。クエリは実行されませんでした。" />
+		</Items>
+	</Group>
+</Resources>

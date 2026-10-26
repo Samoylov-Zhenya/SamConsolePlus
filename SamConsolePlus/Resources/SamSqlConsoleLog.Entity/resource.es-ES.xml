@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="es-ES">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Registro de la consola SQL" />
+			<Item Name="Columns.CompletedOn.Caption" Value="Completado el" />
+			<Item Name="Columns.Contact.Caption" Value="Contacto" />
+			<Item Name="Columns.IpAdress.Caption" Value="Dirección IP" />
+			<Item Name="Columns.QueryText.Caption" Value="Texto de la consulta" />
+			<Item Name="EventsProcessSchema.Caption" Value="Objeto base" />
+		</Items>
+	</Group>
+</Resources>

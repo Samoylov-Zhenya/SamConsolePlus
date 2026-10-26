@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SQL コンソールの禁止語ミニ ページ" />
+			<Item Name="LocalizableStrings.Button_SetRecordRights_title.Value" Value="アクセス権" />
+		</Items>
+	</Group>
+</Resources>

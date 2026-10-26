@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SamSqlConsoleService" />
+			<Item Name="LocalizableStrings.BlockedWordsMessage.Value" Value="Sorgu sizin için yasaklanmış kelimeler içeriyor: {0}. Sorgu çalıştırılmadı." />
+		</Items>
+	</Group>
+</Resources>

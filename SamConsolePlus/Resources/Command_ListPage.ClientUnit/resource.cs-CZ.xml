@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Stránka seznamu příkazů" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Konzole SQL dotazů" />
+			<Item Name="LocalizableStrings.Input_69u02zt_label.Value" Value="Text" />
+			<Item Name="LocalizableStrings.Input_69u02zt_placeholder.Value" Value="Příkaz SQL" />
+			<Item Name="LocalizableStrings.Input_69u02zt_tooltip.Value" Value="Zde můžete napsat kód, který se má provést" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_caption.Value" Value="Rychlý filtr" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_config_caption.Value" Value="Typ DB" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_config_hint.Value" Value="Filtrovat podle typu databáze" />
+			<Item Name="LocalizableStrings.PDS_SamSqlDatabaseType.Value" Value="Typ DB" />
+			<Item Name="LocalizableStrings.Button_InsertCommand_title.Value" Value="Vložit do konzole" />
+			<Item Name="LocalizableStrings.MenuItem_InsertCommand_caption.Value" Value="Vložit do konzole" />
+			<Item Name="LocalizableStrings.DataGrid_BlockedWordsDS_Name.Value" Value="Slovo" />
+			<Item Name="LocalizableStrings.MenuItem_OpenBlockedWord_caption.Value" Value="Otevřít" />
+			<Item Name="LocalizableStrings.MenuItem_DeleteBlockedWord_caption.Value" Value="Odstranit" />
+			<Item Name="LocalizableStrings.TabContainer_Commands_caption.Value" Value="Příkazy" />
+			<Item Name="LocalizableStrings.TabContainer_BlockedWords_caption.Value" Value="Zakázaná slova" />
+			<Item Name="LocalizableStrings.SearchFilter_BlockedWords_placeholder.Value" Value="Hledat" />
+			<Item Name="LocalizableStrings.Button_AddBlockedWord_title.Value" Value="Přidat zakázané slovo" />
+			<Item Name="LocalizableStrings.Button_RefreshBlockedWords_title.Value" Value="Aktualizovat" />
+			<Item Name="LocalizableStrings.TabContainer_Logs_caption.Value" Value="Protokoly" />
+			<Item Name="LocalizableStrings.Button_RefreshLogs_title.Value" Value="Obnovit" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_CreatedOn.Value" Value="Spuštěno" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_Contact.Value" Value="Uživatel" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_QueryText.Value" Value="Text dotazu" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_CompletedOn.Value" Value="Dokončeno" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_IpAdress.Value" Value="IP adresa" />
+		</Items>
+	</Group>
+</Resources>

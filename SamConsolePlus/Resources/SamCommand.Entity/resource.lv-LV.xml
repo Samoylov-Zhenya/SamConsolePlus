@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Komanda" />
+			<Item Name="Columns.SamCode.Caption" Value="Kods" />
+			<Item Name="Columns.SamName.Caption" Value="Nosaukums" />
+			<Item Name="Columns.SamSqlDatabaseType.Caption" Value="SQL datubāzes tips" />
+		</Items>
+	</Group>
+</Resources>

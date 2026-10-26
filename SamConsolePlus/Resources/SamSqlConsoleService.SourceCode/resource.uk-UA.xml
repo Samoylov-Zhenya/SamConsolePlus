@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SamSqlConsoleService" />
+			<Item Name="LocalizableStrings.BlockedWordsMessage.Value" Value="Запит містить заборонені для вас слова: {0}. Запит не виконано." />
+		</Items>
+	</Group>
+</Resources>

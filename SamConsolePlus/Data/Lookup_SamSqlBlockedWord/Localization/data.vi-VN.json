@@ -1,0 +1,23 @@
+{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "fa19d170-04de-4d76-8014-3d22c50709f8"
+        },
+        {
+          "SchemaColumnUId": "009571ab-9c5d-4a20-bf83-dd499ed5a833",
+          "ColumnName": "Description",
+          "Value": "C\u00E1c t\u1EEB b\u1ECB c\u1EA5m trong truy v\u1EA5n c\u1EE7a b\u1EA3ng \u0111i\u1EC1u khi\u1EC3n SQL. \u0027Ng\u01B0\u1EDDi d\u00F9ng ho\u1EB7c vai tr\u00F2\u0027 \u0111\u1EC3 tr\u1ED1ng = cho t\u1EA5t c\u1EA3 m\u1ECDi ng\u01B0\u1EDDi"
+        },
+        {
+          "SchemaColumnUId": "547bff8d-f717-4316-846c-3ff1f0e36e6e",
+          "ColumnName": "Name",
+          "Value": "T\u1EEB b\u1ECB ch\u1EB7n c\u1EE7a b\u1EA3ng \u0111i\u1EC1u khi\u1EC3n SQL"
+        }
+      ]
+    }
+  ]
+}

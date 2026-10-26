@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Lệnh" />
+			<Item Name="Columns.SamCode.Caption" Value="Mã" />
+			<Item Name="Columns.SamName.Caption" Value="Tên" />
+			<Item Name="Columns.SamSqlDatabaseType.Caption" Value="Loại cơ sở dữ liệu SQL" />
+		</Items>
+	</Group>
+</Resources>

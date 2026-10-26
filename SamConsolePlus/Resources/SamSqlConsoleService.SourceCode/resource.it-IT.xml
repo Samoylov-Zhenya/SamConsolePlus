@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="it-IT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SamSqlConsoleService" />
+			<Item Name="LocalizableStrings.BlockedWordsMessage.Value" Value="La query contiene parole vietate per te: {0}. La query non è stata eseguita." />
+		</Items>
+	</Group>
+</Resources>

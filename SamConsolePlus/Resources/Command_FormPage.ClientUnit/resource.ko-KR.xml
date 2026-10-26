@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="명령 양식 페이지" />
+			<Item Name="LocalizableStrings.ListAction_AddDatabaseType_caption.Value" Value="새로 추가" />
+		</Items>
+	</Group>
+</Resources>

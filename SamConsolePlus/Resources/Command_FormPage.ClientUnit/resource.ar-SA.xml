@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="صفحة نموذج الأمر" />
+			<Item Name="LocalizableStrings.ListAction_AddDatabaseType_caption.Value" Value="إضافة جديد" />
+		</Items>
+	</Group>
+</Resources>

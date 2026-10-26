@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="de-DE">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Listenseite „Befehle“" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="SQL-Abfragekonsole" />
+			<Item Name="LocalizableStrings.Input_69u02zt_label.Value" Value="Text" />
+			<Item Name="LocalizableStrings.Input_69u02zt_placeholder.Value" Value="SQL-Befehl" />
+			<Item Name="LocalizableStrings.Input_69u02zt_tooltip.Value" Value="Hier können Sie den auszuführenden Code schreiben" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_caption.Value" Value="Schnellfilter" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_config_caption.Value" Value="DB-Typ" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_config_hint.Value" Value="Nach Datenbanktyp filtern" />
+			<Item Name="LocalizableStrings.PDS_SamSqlDatabaseType.Value" Value="DB-Typ" />
+			<Item Name="LocalizableStrings.Button_InsertCommand_title.Value" Value="In Konsole einfügen" />
+			<Item Name="LocalizableStrings.MenuItem_InsertCommand_caption.Value" Value="In Konsole einfügen" />
+			<Item Name="LocalizableStrings.DataGrid_BlockedWordsDS_Name.Value" Value="Wort" />
+			<Item Name="LocalizableStrings.MenuItem_OpenBlockedWord_caption.Value" Value="Öffnen" />
+			<Item Name="LocalizableStrings.MenuItem_DeleteBlockedWord_caption.Value" Value="Löschen" />
+			<Item Name="LocalizableStrings.TabContainer_Commands_caption.Value" Value="Befehle" />
+			<Item Name="LocalizableStrings.TabContainer_BlockedWords_caption.Value" Value="Gesperrte Wörter" />
+			<Item Name="LocalizableStrings.SearchFilter_BlockedWords_placeholder.Value" Value="Suchen" />
+			<Item Name="LocalizableStrings.Button_AddBlockedWord_title.Value" Value="Gesperrtes Wort hinzufügen" />
+			<Item Name="LocalizableStrings.Button_RefreshBlockedWords_title.Value" Value="Aktualisieren" />
+			<Item Name="LocalizableStrings.TabContainer_Logs_caption.Value" Value="Protokoll" />
+			<Item Name="LocalizableStrings.Button_RefreshLogs_title.Value" Value="Aktualisieren" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_CreatedOn.Value" Value="Gestartet am" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_Contact.Value" Value="Benutzer" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_QueryText.Value" Value="Abfragetext" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_CompletedOn.Value" Value="Abgeschlossen am" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_IpAdress.Value" Value="IP-Adresse" />
+		</Items>
+	</Group>
+</Resources>

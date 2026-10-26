@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="صفحة قائمة الأوامر" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="وحدة تحكم استعلامات SQL" />
+			<Item Name="LocalizableStrings.Input_69u02zt_label.Value" Value="النص" />
+			<Item Name="LocalizableStrings.Input_69u02zt_placeholder.Value" Value="أمر SQL" />
+			<Item Name="LocalizableStrings.Input_69u02zt_tooltip.Value" Value="يمكنك هنا كتابة التعليمات البرمجية المراد تنفيذها" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_caption.Value" Value="عامل تصفية سريع" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_config_caption.Value" Value="نوع قاعدة البيانات" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_config_hint.Value" Value="التصفية حسب نوع قاعدة البيانات" />
+			<Item Name="LocalizableStrings.PDS_SamSqlDatabaseType.Value" Value="نوع قاعدة البيانات" />
+			<Item Name="LocalizableStrings.Button_InsertCommand_title.Value" Value="إدراج في وحدة التحكم" />
+			<Item Name="LocalizableStrings.MenuItem_InsertCommand_caption.Value" Value="إدراج في وحدة التحكم" />
+			<Item Name="LocalizableStrings.DataGrid_BlockedWordsDS_Name.Value" Value="الكلمة" />
+			<Item Name="LocalizableStrings.MenuItem_OpenBlockedWord_caption.Value" Value="فتح" />
+			<Item Name="LocalizableStrings.MenuItem_DeleteBlockedWord_caption.Value" Value="حذف" />
+			<Item Name="LocalizableStrings.TabContainer_Commands_caption.Value" Value="الأوامر" />
+			<Item Name="LocalizableStrings.TabContainer_BlockedWords_caption.Value" Value="الكلمات المحظورة" />
+			<Item Name="LocalizableStrings.SearchFilter_BlockedWords_placeholder.Value" Value="بحث" />
+			<Item Name="LocalizableStrings.Button_AddBlockedWord_title.Value" Value="إضافة كلمة محظورة" />
+			<Item Name="LocalizableStrings.Button_RefreshBlockedWords_title.Value" Value="تحديث" />
+			<Item Name="LocalizableStrings.TabContainer_Logs_caption.Value" Value="السجلات" />
+			<Item Name="LocalizableStrings.Button_RefreshLogs_title.Value" Value="تحديث" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_CreatedOn.Value" Value="بدأ في" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_Contact.Value" Value="المستخدم" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_QueryText.Value" Value="نص الاستعلام" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_CompletedOn.Value" Value="اكتمل في" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_IpAdress.Value" Value="عنوان IP" />
+		</Items>
+	</Group>
+</Resources>

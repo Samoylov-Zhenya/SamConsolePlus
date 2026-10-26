@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SQL 콘솔 차단 단어" />
+			<Item Name="Columns.SamAdminUnit.Caption" Value="사용자 또는 역할" />
+			<Item Name="EventsProcessSchema.Caption" Value="Base object" />
+		</Items>
+	</Group>
+</Resources>

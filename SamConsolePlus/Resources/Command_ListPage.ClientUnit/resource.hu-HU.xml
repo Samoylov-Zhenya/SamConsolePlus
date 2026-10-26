@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hu-HU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Parancsok listaoldala" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="SQL-lekérdezési konzol" />
+			<Item Name="LocalizableStrings.Input_69u02zt_label.Value" Value="Szöveg" />
+			<Item Name="LocalizableStrings.Input_69u02zt_placeholder.Value" Value="SQL-parancs" />
+			<Item Name="LocalizableStrings.Input_69u02zt_tooltip.Value" Value="Itt írhatja meg a végrehajtandó kódot" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_caption.Value" Value="Gyorsszűrő" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_config_caption.Value" Value="Adatbázis típusa" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_config_hint.Value" Value="Szűrés adatbázistípus szerint" />
+			<Item Name="LocalizableStrings.PDS_SamSqlDatabaseType.Value" Value="Adatbázis típusa" />
+			<Item Name="LocalizableStrings.Button_InsertCommand_title.Value" Value="Beszúrás a konzolba" />
+			<Item Name="LocalizableStrings.MenuItem_InsertCommand_caption.Value" Value="Beszúrás a konzolba" />
+			<Item Name="LocalizableStrings.DataGrid_BlockedWordsDS_Name.Value" Value="Szó" />
+			<Item Name="LocalizableStrings.MenuItem_OpenBlockedWord_caption.Value" Value="Megnyitás" />
+			<Item Name="LocalizableStrings.MenuItem_DeleteBlockedWord_caption.Value" Value="Törlés" />
+			<Item Name="LocalizableStrings.TabContainer_Commands_caption.Value" Value="Parancsok" />
+			<Item Name="LocalizableStrings.TabContainer_BlockedWords_caption.Value" Value="Tiltott szavak" />
+			<Item Name="LocalizableStrings.SearchFilter_BlockedWords_placeholder.Value" Value="Keresés" />
+			<Item Name="LocalizableStrings.Button_AddBlockedWord_title.Value" Value="Tiltott szó hozzáadása" />
+			<Item Name="LocalizableStrings.Button_RefreshBlockedWords_title.Value" Value="Frissítés" />
+			<Item Name="LocalizableStrings.TabContainer_Logs_caption.Value" Value="Naplók" />
+			<Item Name="LocalizableStrings.Button_RefreshLogs_title.Value" Value="Frissítés" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_CreatedOn.Value" Value="Indítva" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_Contact.Value" Value="Felhasználó" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_QueryText.Value" Value="Lekérdezés szövege" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_CompletedOn.Value" Value="Befejezve" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_IpAdress.Value" Value="IP-cím" />
+		</Items>
+	</Group>
+</Resources>

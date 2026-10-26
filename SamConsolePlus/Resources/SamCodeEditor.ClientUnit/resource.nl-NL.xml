@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SamCodeEditor" />
+			<Item Name="LocalizableStrings.SqlPlaceholder.Value" Value="Voer een SQL-query in..." />
+			<Item Name="LocalizableStrings.ClearButtonHint.Value" Value="Wissen" />
+			<Item Name="LocalizableStrings.ExecuteButtonCaption.Value" Value="Uitvoeren" />
+			<Item Name="LocalizableStrings.EditorResizeHint.Value" Value="Sleep om de hoogte van de editor te wijzigen" />
+			<Item Name="LocalizableStrings.SearchPlaceholder.Value" Value="Zoeken..." />
+			<Item Name="LocalizableStrings.RowLimitLabel.Value" Value="Rijen:" />
+			<Item Name="LocalizableStrings.ExecutionTimeMessage.Value" Value="Uitvoeringstijd: {0} s" />
+			<Item Name="LocalizableStrings.AccessDeniedMessage.Value" Value="Toegang geweigerd: de bewerking CanUseSqlConsole is niet toegestaan." />
+			<Item Name="LocalizableStrings.UnknownErrorMessage.Value" Value="Onbekende fout" />
+			<Item Name="LocalizableStrings.RowsAffectedMessage.Value" Value="Betrokken rijen: {0}" />
+			<Item Name="LocalizableStrings.ResultCaption.Value" Value="Resultaat {0}" />
+			<Item Name="LocalizableStrings.RowsShownHint.Value" Value="Weergegeven: {0}" />
+			<Item Name="LocalizableStrings.RowsFoundHint.Value" Value="gevonden: {0}" />
+			<Item Name="LocalizableStrings.RowsTotalHint.Value" Value="totaal: {0}" />
+			<Item Name="LocalizableStrings.ExecutingMessage.Value" Value="Bezig met uitvoeren... {0} s" />
+			<Item Name="LocalizableStrings.PanelsResizeHint.Value" Value="Sleep om het formaat van de panelen te wijzigen" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="id-ID">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Halaman mini kata terlarang konsol SQL" />
+			<Item Name="LocalizableStrings.Button_SetRecordRights_title.Value" Value="Hak akses" />
+		</Items>
+	</Group>
+</Resources>

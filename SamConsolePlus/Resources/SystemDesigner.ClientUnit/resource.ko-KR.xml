@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CopilotAgentsPage.Value" Value="Creatio.ai agents" />
+			<Item Name="LocalizableStrings.ExtAccessSectionCaption.Value" Value="외부 액세스" />
+			<Item Name="LocalizableStrings.FileImportLinkCaption.Value" Value="데이터 가져오기" />
+			<Item Name="LocalizableStrings.LanguageSectionCaption.Value" Value="언어" />
+			<Item Name="LocalizableStrings.LdapLinkCaption.Value" Value="LDAP 통합 설정" />
+			<Item Name="LocalizableStrings.ScoringModelCaption.Value" Value="스코어링 모델" />
+			<Item Name="LocalizableStrings.SsoSettingsCaption.Value" Value="Single Sign On configuration" />
+			<Item Name="LocalizableStrings.TranslationSectionCaption.Value" Value="번역" />
+			<Item Name="LocalizableStrings.WebServicesCaption.Value" Value="웹 서비스 통합 설정" />
+			<Item Name="LocalizableStrings.SqlConsoleCaption.Value" Value="SQL 쿼리 콘솔" />
+			<Item Name="LocalizableStrings.TechnicalUsersSectionLinkCaption.Value" Value="기술 사용자" />
+		</Items>
+	</Group>
+</Resources>

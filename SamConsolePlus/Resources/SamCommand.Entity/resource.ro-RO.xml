@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Comandă" />
+			<Item Name="Columns.SamCode.Caption" Value="Cod" />
+			<Item Name="Columns.SamName.Caption" Value="Nume" />
+			<Item Name="Columns.SamSqlDatabaseType.Caption" Value="Tip bază de date SQL" />
+		</Items>
+	</Group>
+</Resources>

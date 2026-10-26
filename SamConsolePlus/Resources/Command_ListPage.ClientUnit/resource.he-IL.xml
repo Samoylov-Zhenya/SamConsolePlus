@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="דף רשימת פקודות" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="מסוף שאילתות SQL" />
+			<Item Name="LocalizableStrings.Input_69u02zt_label.Value" Value="טקסט" />
+			<Item Name="LocalizableStrings.Input_69u02zt_placeholder.Value" Value="פקודת SQL" />
+			<Item Name="LocalizableStrings.Input_69u02zt_tooltip.Value" Value="כאן ניתן לכתוב את הקוד לביצוע" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_caption.Value" Value="מסנן מהיר" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_config_caption.Value" Value="סוג מסד נתונים" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_config_hint.Value" Value="סינון לפי סוג מסד נתונים" />
+			<Item Name="LocalizableStrings.PDS_SamSqlDatabaseType.Value" Value="סוג מסד נתונים" />
+			<Item Name="LocalizableStrings.Button_InsertCommand_title.Value" Value="הכנס למסוף" />
+			<Item Name="LocalizableStrings.MenuItem_InsertCommand_caption.Value" Value="הכנס למסוף" />
+			<Item Name="LocalizableStrings.DataGrid_BlockedWordsDS_Name.Value" Value="מילה" />
+			<Item Name="LocalizableStrings.MenuItem_OpenBlockedWord_caption.Value" Value="פתח" />
+			<Item Name="LocalizableStrings.MenuItem_DeleteBlockedWord_caption.Value" Value="מחק" />
+			<Item Name="LocalizableStrings.TabContainer_Commands_caption.Value" Value="פקודות" />
+			<Item Name="LocalizableStrings.TabContainer_BlockedWords_caption.Value" Value="מילים חסומות" />
+			<Item Name="LocalizableStrings.SearchFilter_BlockedWords_placeholder.Value" Value="חיפוש" />
+			<Item Name="LocalizableStrings.Button_AddBlockedWord_title.Value" Value="הוסף מילה חסומה" />
+			<Item Name="LocalizableStrings.Button_RefreshBlockedWords_title.Value" Value="רענן" />
+			<Item Name="LocalizableStrings.TabContainer_Logs_caption.Value" Value="יומנים" />
+			<Item Name="LocalizableStrings.Button_RefreshLogs_title.Value" Value="רענון" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_CreatedOn.Value" Value="התחיל ב" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_Contact.Value" Value="משתמש" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_QueryText.Value" Value="טקסט השאילתה" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_CompletedOn.Value" Value="הושלם ב" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_IpAdress.Value" Value="כתובת IP" />
+		</Items>
+	</Group>
+</Resources>

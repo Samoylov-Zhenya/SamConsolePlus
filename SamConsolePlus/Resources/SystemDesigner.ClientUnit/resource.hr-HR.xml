@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CopilotAgentsPage.Value" Value="Agenti Creatio.ai" />
+			<Item Name="LocalizableStrings.ExtAccessSectionCaption.Value" Value="Vanjski pristup" />
+			<Item Name="LocalizableStrings.FileImportLinkCaption.Value" Value="Uvoz podataka" />
+			<Item Name="LocalizableStrings.LanguageSectionCaption.Value" Value="Jezici" />
+			<Item Name="LocalizableStrings.LdapLinkCaption.Value" Value="Postavljanje integracije s LDAP-om" />
+			<Item Name="LocalizableStrings.ScoringModelCaption.Value" Value="Modeli ocjenjivanja" />
+			<Item Name="LocalizableStrings.SsoSettingsCaption.Value" Value="Konfiguracija jedinstvene prijave" />
+			<Item Name="LocalizableStrings.TranslationSectionCaption.Value" Value="Prijevod" />
+			<Item Name="LocalizableStrings.WebServicesCaption.Value" Value="Postavljanje integracije web usluga" />
+			<Item Name="LocalizableStrings.SqlConsoleCaption.Value" Value="Konzola za SQL upite" />
+			<Item Name="LocalizableStrings.TechnicalUsersSectionLinkCaption.Value" Value="Tehnički korisnici" />
+		</Items>
+	</Group>
+</Resources>

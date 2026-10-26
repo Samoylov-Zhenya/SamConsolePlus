@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Stranica obrasca naredbe" />
+			<Item Name="LocalizableStrings.ListAction_AddDatabaseType_caption.Value" Value="Dodaj novo" />
+		</Items>
+	</Group>
+</Resources>

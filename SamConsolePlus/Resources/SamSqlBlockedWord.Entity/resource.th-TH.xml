@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="คำที่ถูกบล็อกในคอนโซล SQL" />
+			<Item Name="Columns.SamAdminUnit.Caption" Value="ผู้ใช้หรือบทบาท" />
+			<Item Name="EventsProcessSchema.Caption" Value="Base object" />
+		</Items>
+	</Group>
+</Resources>

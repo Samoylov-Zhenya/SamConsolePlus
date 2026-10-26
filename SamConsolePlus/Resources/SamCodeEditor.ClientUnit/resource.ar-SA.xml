@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SamCodeEditor" />
+			<Item Name="LocalizableStrings.SqlPlaceholder.Value" Value="أدخل استعلام SQL..." />
+			<Item Name="LocalizableStrings.ClearButtonHint.Value" Value="مسح" />
+			<Item Name="LocalizableStrings.ExecuteButtonCaption.Value" Value="تنفيذ" />
+			<Item Name="LocalizableStrings.EditorResizeHint.Value" Value="اسحب لتغيير ارتفاع المحرر" />
+			<Item Name="LocalizableStrings.SearchPlaceholder.Value" Value="بحث..." />
+			<Item Name="LocalizableStrings.RowLimitLabel.Value" Value="الصفوف:" />
+			<Item Name="LocalizableStrings.ExecutionTimeMessage.Value" Value="وقت التنفيذ: {0} ث" />
+			<Item Name="LocalizableStrings.AccessDeniedMessage.Value" Value="تم رفض الوصول: العملية CanUseSqlConsole محظورة." />
+			<Item Name="LocalizableStrings.UnknownErrorMessage.Value" Value="خطأ غير معروف" />
+			<Item Name="LocalizableStrings.RowsAffectedMessage.Value" Value="الصفوف المتأثرة: {0}" />
+			<Item Name="LocalizableStrings.ResultCaption.Value" Value="النتيجة {0}" />
+			<Item Name="LocalizableStrings.RowsShownHint.Value" Value="المعروض: {0}" />
+			<Item Name="LocalizableStrings.RowsFoundHint.Value" Value="تم العثور على: {0}" />
+			<Item Name="LocalizableStrings.RowsTotalHint.Value" Value="الإجمالي: {0}" />
+			<Item Name="LocalizableStrings.ExecutingMessage.Value" Value="جارٍ التنفيذ... {0} ث" />
+			<Item Name="LocalizableStrings.PanelsResizeHint.Value" Value="اسحب لتغيير حجم اللوحات" />
+		</Items>
+	</Group>
+</Resources>

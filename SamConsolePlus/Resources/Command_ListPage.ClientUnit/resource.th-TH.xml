@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="หน้ารายการคำสั่ง" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="คอนโซลคิวรี SQL" />
+			<Item Name="LocalizableStrings.Input_69u02zt_label.Value" Value="ข้อความ" />
+			<Item Name="LocalizableStrings.Input_69u02zt_placeholder.Value" Value="คำสั่ง SQL" />
+			<Item Name="LocalizableStrings.Input_69u02zt_tooltip.Value" Value="คุณสามารถเขียนโค้ดที่จะดำเนินการได้ที่นี่" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_caption.Value" Value="ตัวกรองด่วน" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_config_caption.Value" Value="ประเภท DB" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_config_hint.Value" Value="กรองตามประเภทฐานข้อมูล" />
+			<Item Name="LocalizableStrings.PDS_SamSqlDatabaseType.Value" Value="ประเภท DB" />
+			<Item Name="LocalizableStrings.Button_InsertCommand_title.Value" Value="แทรกลงในคอนโซล" />
+			<Item Name="LocalizableStrings.MenuItem_InsertCommand_caption.Value" Value="แทรกลงในคอนโซล" />
+			<Item Name="LocalizableStrings.DataGrid_BlockedWordsDS_Name.Value" Value="คำ" />
+			<Item Name="LocalizableStrings.MenuItem_OpenBlockedWord_caption.Value" Value="เปิด" />
+			<Item Name="LocalizableStrings.MenuItem_DeleteBlockedWord_caption.Value" Value="ลบ" />
+			<Item Name="LocalizableStrings.TabContainer_Commands_caption.Value" Value="คำสั่ง" />
+			<Item Name="LocalizableStrings.TabContainer_BlockedWords_caption.Value" Value="คำที่ถูกบล็อก" />
+			<Item Name="LocalizableStrings.SearchFilter_BlockedWords_placeholder.Value" Value="ค้นหา" />
+			<Item Name="LocalizableStrings.Button_AddBlockedWord_title.Value" Value="เพิ่มคำที่ถูกบล็อก" />
+			<Item Name="LocalizableStrings.Button_RefreshBlockedWords_title.Value" Value="รีเฟรช" />
+			<Item Name="LocalizableStrings.TabContainer_Logs_caption.Value" Value="บันทึก" />
+			<Item Name="LocalizableStrings.Button_RefreshLogs_title.Value" Value="รีเฟรช" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_CreatedOn.Value" Value="เริ่มเมื่อ" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_Contact.Value" Value="ผู้ใช้" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_QueryText.Value" Value="ข้อความคิวรี" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_CompletedOn.Value" Value="เสร็จสิ้นเมื่อ" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_IpAdress.Value" Value="ที่อยู่ IP" />
+		</Items>
+	</Group>
+</Resources>

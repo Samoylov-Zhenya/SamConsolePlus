@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SamCodeEditor" />
+			<Item Name="LocalizableStrings.SqlPlaceholder.Value" Value="Ievadiet SQL vaicājumu..." />
+			<Item Name="LocalizableStrings.ClearButtonHint.Value" Value="Notīrīt" />
+			<Item Name="LocalizableStrings.ExecuteButtonCaption.Value" Value="Izpildīt" />
+			<Item Name="LocalizableStrings.EditorResizeHint.Value" Value="Velciet, lai mainītu redaktora augstumu" />
+			<Item Name="LocalizableStrings.SearchPlaceholder.Value" Value="Meklēt..." />
+			<Item Name="LocalizableStrings.RowLimitLabel.Value" Value="Rindas:" />
+			<Item Name="LocalizableStrings.ExecutionTimeMessage.Value" Value="Izpildes laiks: {0} s" />
+			<Item Name="LocalizableStrings.AccessDeniedMessage.Value" Value="Piekļuve liegta: darbība CanUseSqlConsole ir aizliegta." />
+			<Item Name="LocalizableStrings.UnknownErrorMessage.Value" Value="Nezināma kļūda" />
+			<Item Name="LocalizableStrings.RowsAffectedMessage.Value" Value="Ietekmētās rindas: {0}" />
+			<Item Name="LocalizableStrings.ResultCaption.Value" Value="Rezultāts {0}" />
+			<Item Name="LocalizableStrings.RowsShownHint.Value" Value="Parādītas: {0}" />
+			<Item Name="LocalizableStrings.RowsFoundHint.Value" Value="atrastas: {0}" />
+			<Item Name="LocalizableStrings.RowsTotalHint.Value" Value="kopā: {0}" />
+			<Item Name="LocalizableStrings.ExecutingMessage.Value" Value="Notiek izpilde... {0} s" />
+			<Item Name="LocalizableStrings.PanelsResizeHint.Value" Value="Velciet, lai mainītu paneļu izmēru" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hu-HU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SamSqlConsoleService" />
+			<Item Name="LocalizableStrings.BlockedWordsMessage.Value" Value="A lekérdezés az Ön számára tiltott szavakat tartalmaz: {0}. A lekérdezés nem lett végrehajtva." />
+		</Items>
+	</Group>
+</Resources>

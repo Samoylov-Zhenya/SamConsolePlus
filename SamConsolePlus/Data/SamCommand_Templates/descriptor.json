@@ -1,0 +1,42 @@
+﻿{
+  "Descriptor": {
+    "UId": "8b04d49f-517e-40ad-9437-305c9a7afe96",
+    "Name": "SamCommand_Templates",
+    "ModifiedOnUtc": "\/Date(1792983352601)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "34e8a1f0-8158-40d6-8a1d-b16164e2546b",
+      "Name": "SamCommand"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "c42dd9c2-6b30-e2ab-f2d4-0e45ee50c39b",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "SamName",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "743e400f-6439-5a78-ab91-2ec79a6541a6",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "SamCode",
+        "DataTypeValueUId": "c0f04627-4620-4bc0-84e5-9419dc8516b1"
+      },
+      {
+        "ColumnUId": "070b1313-9656-48d8-9bb0-8b77b29c1ed6",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "SamSqlDatabaseType",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      }
+    ]
+  }
+}

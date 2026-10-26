@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SamCodeEditor" />
+			<Item Name="LocalizableStrings.SqlPlaceholder.Value" Value="Введите SQL-запрос..." />
+			<Item Name="LocalizableStrings.ClearButtonHint.Value" Value="Очистить" />
+			<Item Name="LocalizableStrings.ExecuteButtonCaption.Value" Value="Выполнить" />
+			<Item Name="LocalizableStrings.EditorResizeHint.Value" Value="Потяните, чтобы изменить высоту редактора" />
+			<Item Name="LocalizableStrings.SearchPlaceholder.Value" Value="Поиск..." />
+			<Item Name="LocalizableStrings.RowLimitLabel.Value" Value="Строк:" />
+			<Item Name="LocalizableStrings.ExecutionTimeMessage.Value" Value="Время выполнения: {0} с" />
+			<Item Name="LocalizableStrings.AccessDeniedMessage.Value" Value="Доступ запрещён: операция CanUseSqlConsole недоступна." />
+			<Item Name="LocalizableStrings.UnknownErrorMessage.Value" Value="Неизвестная ошибка" />
+			<Item Name="LocalizableStrings.RowsAffectedMessage.Value" Value="Затронуто строк: {0}" />
+			<Item Name="LocalizableStrings.ResultCaption.Value" Value="Результат {0}" />
+			<Item Name="LocalizableStrings.RowsShownHint.Value" Value="Показано: {0}" />
+			<Item Name="LocalizableStrings.RowsFoundHint.Value" Value="найдено: {0}" />
+			<Item Name="LocalizableStrings.RowsTotalHint.Value" Value="всего: {0}" />
+			<Item Name="LocalizableStrings.ExecutingMessage.Value" Value="Выполняется... {0} с" />
+			<Item Name="LocalizableStrings.PanelsResizeHint.Value" Value="Потяните, чтобы изменить размер панелей" />
+		</Items>
+	</Group>
+</Resources>

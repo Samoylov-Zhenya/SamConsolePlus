@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Komandu saraksta lapa" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="SQL vaicājumu konsole" />
+			<Item Name="LocalizableStrings.Input_69u02zt_label.Value" Value="Teksts" />
+			<Item Name="LocalizableStrings.Input_69u02zt_placeholder.Value" Value="SQL komanda" />
+			<Item Name="LocalizableStrings.Input_69u02zt_tooltip.Value" Value="Šeit varat ierakstīt izpildāmo kodu" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_caption.Value" Value="Ātrais filtrs" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_config_caption.Value" Value="DB tips" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_config_hint.Value" Value="Filtrēt pēc datubāzes tipa" />
+			<Item Name="LocalizableStrings.PDS_SamSqlDatabaseType.Value" Value="DB tips" />
+			<Item Name="LocalizableStrings.Button_InsertCommand_title.Value" Value="Ievietot konsolē" />
+			<Item Name="LocalizableStrings.MenuItem_InsertCommand_caption.Value" Value="Ievietot konsolē" />
+			<Item Name="LocalizableStrings.DataGrid_BlockedWordsDS_Name.Value" Value="Vārds" />
+			<Item Name="LocalizableStrings.MenuItem_OpenBlockedWord_caption.Value" Value="Atvērt" />
+			<Item Name="LocalizableStrings.MenuItem_DeleteBlockedWord_caption.Value" Value="Dzēst" />
+			<Item Name="LocalizableStrings.TabContainer_Commands_caption.Value" Value="Komandas" />
+			<Item Name="LocalizableStrings.TabContainer_BlockedWords_caption.Value" Value="Aizliegtie vārdi" />
+			<Item Name="LocalizableStrings.SearchFilter_BlockedWords_placeholder.Value" Value="Meklēt" />
+			<Item Name="LocalizableStrings.Button_AddBlockedWord_title.Value" Value="Pievienot aizliegto vārdu" />
+			<Item Name="LocalizableStrings.Button_RefreshBlockedWords_title.Value" Value="Atsvaidzināt" />
+			<Item Name="LocalizableStrings.TabContainer_Logs_caption.Value" Value="Žurnāli" />
+			<Item Name="LocalizableStrings.Button_RefreshLogs_title.Value" Value="Atsvaidzināt" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_CreatedOn.Value" Value="Sākts" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_Contact.Value" Value="Lietotājs" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_QueryText.Value" Value="Vaicājuma teksts" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_CompletedOn.Value" Value="Pabeigts" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_IpAdress.Value" Value="IP adrese" />
+		</Items>
+	</Group>
+</Resources>

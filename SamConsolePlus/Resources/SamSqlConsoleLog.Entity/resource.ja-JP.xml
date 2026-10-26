@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SQL コンソール ログ" />
+			<Item Name="Columns.CompletedOn.Caption" Value="完了日時" />
+			<Item Name="Columns.Contact.Caption" Value="連絡先" />
+			<Item Name="Columns.IpAdress.Caption" Value="IP アドレス" />
+			<Item Name="Columns.QueryText.Caption" Value="クエリ テキスト" />
+			<Item Name="EventsProcessSchema.Caption" Value="ベースオブジェクト" />
+		</Items>
+	</Group>
+</Resources>

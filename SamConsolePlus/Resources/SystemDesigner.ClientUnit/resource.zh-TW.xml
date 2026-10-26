@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CopilotAgentsPage.Value" Value="Creatio.ai agents" />
+			<Item Name="LocalizableStrings.ExtAccessSectionCaption.Value" Value="外部存取" />
+			<Item Name="LocalizableStrings.FileImportLinkCaption.Value" Value="資料匯入" />
+			<Item Name="LocalizableStrings.LanguageSectionCaption.Value" Value="語言" />
+			<Item Name="LocalizableStrings.LdapLinkCaption.Value" Value="LDAP 整合設定" />
+			<Item Name="LocalizableStrings.ScoringModelCaption.Value" Value="計分模式" />
+			<Item Name="LocalizableStrings.SsoSettingsCaption.Value" Value="SSO配置" />
+			<Item Name="LocalizableStrings.TranslationSectionCaption.Value" Value="翻譯" />
+			<Item Name="LocalizableStrings.WebServicesCaption.Value" Value="網路服務整合設定" />
+			<Item Name="LocalizableStrings.SqlConsoleCaption.Value" Value="SQL 查詢主控台" />
+			<Item Name="LocalizableStrings.TechnicalUsersSectionLinkCaption.Value" Value="技術使用者" />
+		</Items>
+	</Group>
+</Resources>

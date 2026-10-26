@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CopilotAgentsPage.Value" Value="Агенты Creatio.ai" />
+			<Item Name="LocalizableStrings.ExtAccessSectionCaption.Value" Value="Доступ внешних приложений" />
+			<Item Name="LocalizableStrings.FileImportLinkCaption.Value" Value="Импорт данных" />
+			<Item Name="LocalizableStrings.LanguageSectionCaption.Caption" Value="Message to user 1" />
+			<Item Name="LocalizableStrings.LanguageSectionCaption.Value" Value="Языки" />
+			<Item Name="LocalizableStrings.LdapLinkCaption.Value" Value="Настройка интеграции с LDAP" />
+			<Item Name="LocalizableStrings.ScoringModelCaption.Caption" Value="Message to user 1" />
+			<Item Name="LocalizableStrings.ScoringModelCaption.Value" Value="Скоринговые модели" />
+			<Item Name="LocalizableStrings.SqlConsoleCaption.Value" Value="Консоль SQL запросов" />
+			<Item Name="LocalizableStrings.SsoSettingsCaption.Value" Value="Конфигурация Single Sign On" />
+			<Item Name="LocalizableStrings.TechnicalUsersSectionLinkCaption.Value" Value="Технические пользователи" />
+			<Item Name="LocalizableStrings.TranslationSectionCaption.Caption" Value="Message to user 1" />
+			<Item Name="LocalizableStrings.TranslationSectionCaption.Value" Value="Переводы" />
+			<Item Name="LocalizableStrings.WebServicesCaption.Value" Value="Настройка интеграции с веб-сервисами" />
+		</Items>
+	</Group>
+</Resources>

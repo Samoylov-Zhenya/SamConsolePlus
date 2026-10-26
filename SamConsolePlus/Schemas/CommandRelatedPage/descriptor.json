@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "9090f5df-f589-4bbb-a811-9708be731b12",
+    "Name": "CommandRelatedPage",
+    "ModifiedOnUtc": "\/Date(1774215173000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Command (Page settings)",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pl-PL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Dziennik konsoli SQL" />
+			<Item Name="Columns.CompletedOn.Caption" Value="Data zakończenia" />
+			<Item Name="Columns.Contact.Caption" Value="Kontakt" />
+			<Item Name="Columns.IpAdress.Caption" Value="Adres IP" />
+			<Item Name="Columns.QueryText.Caption" Value="Tekst zapytania" />
+			<Item Name="EventsProcessSchema.Caption" Value="Obiekt podstawowy" />
+		</Items>
+	</Group>
+</Resources>

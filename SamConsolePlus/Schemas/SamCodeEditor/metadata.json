@@ -1,0 +1,135 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ClientUnitSchemaManager",
+      "UId": "18411b30-7409-4047-a65a-a85c56b5ef0d",
+      "A2": "SamCodeEditor",
+      "A5": "b89ac747-0571-4dbd-80bf-7a9bcafcc0cf",
+      "B1": [],
+      "B2": [
+        {
+          "UId": "09925d01-2f21-497a-bd53-27b8dd84b985",
+          "A2": "SqlPlaceholder",
+          "A3": "18411b30-7409-4047-a65a-a85c56b5ef0d",
+          "A4": "18411b30-7409-4047-a65a-a85c56b5ef0d",
+          "A5": "b89ac747-0571-4dbd-80bf-7a9bcafcc0cf"
+        },
+        {
+          "UId": "db80a9fd-f2db-4e86-af93-aa16a7ee2fcc",
+          "A2": "ClearButtonHint",
+          "A3": "18411b30-7409-4047-a65a-a85c56b5ef0d",
+          "A4": "18411b30-7409-4047-a65a-a85c56b5ef0d",
+          "A5": "b89ac747-0571-4dbd-80bf-7a9bcafcc0cf"
+        },
+        {
+          "UId": "f4a4f1e0-38b2-4962-86b9-b12b46afc944",
+          "A2": "ExecuteButtonCaption",
+          "A3": "18411b30-7409-4047-a65a-a85c56b5ef0d",
+          "A4": "18411b30-7409-4047-a65a-a85c56b5ef0d",
+          "A5": "b89ac747-0571-4dbd-80bf-7a9bcafcc0cf"
+        },
+        {
+          "UId": "b8c14d0f-9cef-4e63-a72f-96cf60816396",
+          "A2": "EditorResizeHint",
+          "A3": "18411b30-7409-4047-a65a-a85c56b5ef0d",
+          "A4": "18411b30-7409-4047-a65a-a85c56b5ef0d",
+          "A5": "b89ac747-0571-4dbd-80bf-7a9bcafcc0cf"
+        },
+        {
+          "UId": "711ef6d4-26e0-4f57-8f83-c24fa3b2b50c",
+          "A2": "SearchPlaceholder",
+          "A3": "18411b30-7409-4047-a65a-a85c56b5ef0d",
+          "A4": "18411b30-7409-4047-a65a-a85c56b5ef0d",
+          "A5": "b89ac747-0571-4dbd-80bf-7a9bcafcc0cf"
+        },
+        {
+          "UId": "59f1b49d-4f21-45f3-9cd9-27d49661affd",
+          "A2": "RowLimitLabel",
+          "A3": "18411b30-7409-4047-a65a-a85c56b5ef0d",
+          "A4": "18411b30-7409-4047-a65a-a85c56b5ef0d",
+          "A5": "b89ac747-0571-4dbd-80bf-7a9bcafcc0cf"
+        },
+        {
+          "UId": "1631f5dc-4d21-4906-ae30-9adee74ee895",
+          "A2": "ExecutionTimeMessage",
+          "A3": "18411b30-7409-4047-a65a-a85c56b5ef0d",
+          "A4": "18411b30-7409-4047-a65a-a85c56b5ef0d",
+          "A5": "b89ac747-0571-4dbd-80bf-7a9bcafcc0cf"
+        },
+        {
+          "UId": "f69933d2-a3d8-49ac-9707-6c35bdef1785",
+          "A2": "AccessDeniedMessage",
+          "A3": "18411b30-7409-4047-a65a-a85c56b5ef0d",
+          "A4": "18411b30-7409-4047-a65a-a85c56b5ef0d",
+          "A5": "b89ac747-0571-4dbd-80bf-7a9bcafcc0cf"
+        },
+        {
+          "UId": "c7c522b4-846e-462b-bce5-724fbe1cb87a",
+          "A2": "UnknownErrorMessage",
+          "A3": "18411b30-7409-4047-a65a-a85c56b5ef0d",
+          "A4": "18411b30-7409-4047-a65a-a85c56b5ef0d",
+          "A5": "b89ac747-0571-4dbd-80bf-7a9bcafcc0cf"
+        },
+        {
+          "UId": "713bad28-5824-4a4b-bc0d-655c5649f6de",
+          "A2": "RowsAffectedMessage",
+          "A3": "18411b30-7409-4047-a65a-a85c56b5ef0d",
+          "A4": "18411b30-7409-4047-a65a-a85c56b5ef0d",
+          "A5": "b89ac747-0571-4dbd-80bf-7a9bcafcc0cf"
+        },
+        {
+          "UId": "f0f27f75-4702-44a1-a70a-458d8887e5a7",
+          "A2": "ResultCaption",
+          "A3": "18411b30-7409-4047-a65a-a85c56b5ef0d",
+          "A4": "18411b30-7409-4047-a65a-a85c56b5ef0d",
+          "A5": "b89ac747-0571-4dbd-80bf-7a9bcafcc0cf"
+        },
+        {
+          "UId": "1f8177cd-fc07-4856-b80f-197f13ad9fd6",
+          "A2": "RowsShownHint",
+          "A3": "18411b30-7409-4047-a65a-a85c56b5ef0d",
+          "A4": "18411b30-7409-4047-a65a-a85c56b5ef0d",
+          "A5": "b89ac747-0571-4dbd-80bf-7a9bcafcc0cf"
+        },
+        {
+          "UId": "9e88ded2-64ec-4b30-9380-40cbbb75c7d7",
+          "A2": "RowsFoundHint",
+          "A3": "18411b30-7409-4047-a65a-a85c56b5ef0d",
+          "A4": "18411b30-7409-4047-a65a-a85c56b5ef0d",
+          "A5": "b89ac747-0571-4dbd-80bf-7a9bcafcc0cf"
+        },
+        {
+          "UId": "36becb96-4f5c-43e3-8975-c804f92502fd",
+          "A2": "RowsTotalHint",
+          "A3": "18411b30-7409-4047-a65a-a85c56b5ef0d",
+          "A4": "18411b30-7409-4047-a65a-a85c56b5ef0d",
+          "A5": "b89ac747-0571-4dbd-80bf-7a9bcafcc0cf"
+        },
+        {
+          "UId": "3653d4dd-86dd-48f1-96f3-8ee56811df08",
+          "A2": "ExecutingMessage",
+          "A3": "18411b30-7409-4047-a65a-a85c56b5ef0d",
+          "A4": "18411b30-7409-4047-a65a-a85c56b5ef0d",
+          "A5": "b89ac747-0571-4dbd-80bf-7a9bcafcc0cf"
+        },
+        {
+          "UId": "c8e02d8d-d61b-4362-81e5-883a04d8e886",
+          "A2": "PanelsResizeHint",
+          "A3": "18411b30-7409-4047-a65a-a85c56b5ef0d",
+          "A4": "18411b30-7409-4047-a65a-a85c56b5ef0d",
+          "A5": "b89ac747-0571-4dbd-80bf-7a9bcafcc0cf"
+        }
+      ],
+      "B3": [],
+      "B6": "5eceb430-0eeb-45e3-ab8f-42d6c5d38016",
+      "B8": "8.3.2.4199",
+      "HD1": "50e3acc0-26fc-4237-a095-849a1d534bd3",
+      "HD4": 1,
+      "HD6": "null",
+      "HD5": [],
+      "HD7": [],
+      "HD8": [],
+      "HD11": []
+    }
+  }
+}

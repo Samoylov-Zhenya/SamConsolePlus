@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="id-ID">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Halaman daftar perintah" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Konsol kueri SQL" />
+			<Item Name="LocalizableStrings.Input_69u02zt_label.Value" Value="Teks" />
+			<Item Name="LocalizableStrings.Input_69u02zt_placeholder.Value" Value="Perintah SQL" />
+			<Item Name="LocalizableStrings.Input_69u02zt_tooltip.Value" Value="Di sini Anda dapat menulis kode yang akan dijalankan" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_caption.Value" Value="Filter cepat" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_config_caption.Value" Value="Jenis DB" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_config_hint.Value" Value="Filter menurut jenis basis data" />
+			<Item Name="LocalizableStrings.PDS_SamSqlDatabaseType.Value" Value="Jenis DB" />
+			<Item Name="LocalizableStrings.Button_InsertCommand_title.Value" Value="Sisipkan ke konsol" />
+			<Item Name="LocalizableStrings.MenuItem_InsertCommand_caption.Value" Value="Sisipkan ke konsol" />
+			<Item Name="LocalizableStrings.DataGrid_BlockedWordsDS_Name.Value" Value="Kata" />
+			<Item Name="LocalizableStrings.MenuItem_OpenBlockedWord_caption.Value" Value="Buka" />
+			<Item Name="LocalizableStrings.MenuItem_DeleteBlockedWord_caption.Value" Value="Hapus" />
+			<Item Name="LocalizableStrings.TabContainer_Commands_caption.Value" Value="Perintah" />
+			<Item Name="LocalizableStrings.TabContainer_BlockedWords_caption.Value" Value="Kata terlarang" />
+			<Item Name="LocalizableStrings.SearchFilter_BlockedWords_placeholder.Value" Value="Cari" />
+			<Item Name="LocalizableStrings.Button_AddBlockedWord_title.Value" Value="Tambah kata terlarang" />
+			<Item Name="LocalizableStrings.Button_RefreshBlockedWords_title.Value" Value="Segarkan" />
+			<Item Name="LocalizableStrings.TabContainer_Logs_caption.Value" Value="Log" />
+			<Item Name="LocalizableStrings.Button_RefreshLogs_title.Value" Value="Segarkan" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_CreatedOn.Value" Value="Dimulai pada" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_Contact.Value" Value="Pengguna" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_QueryText.Value" Value="Teks kueri" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_CompletedOn.Value" Value="Selesai pada" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_IpAdress.Value" Value="Alamat IP" />
+		</Items>
+	</Group>
+</Resources>

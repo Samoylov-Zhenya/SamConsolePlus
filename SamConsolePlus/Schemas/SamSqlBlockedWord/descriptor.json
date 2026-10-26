@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "87190ed6-6935-4ffd-96a2-cc64766b950c",
+    "Name": "SamSqlBlockedWord",
+    "ModifiedOnUtc": "\/Date(1792985062000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "SQL console blocked word"
+  }
+}

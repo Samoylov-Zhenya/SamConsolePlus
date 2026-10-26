@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="יומן מסוף SQL" />
+			<Item Name="Columns.CompletedOn.Caption" Value="הושלם בתאריך" />
+			<Item Name="Columns.Contact.Caption" Value="איש קשר" />
+			<Item Name="Columns.IpAdress.Caption" Value="כתובת IP" />
+			<Item Name="Columns.QueryText.Caption" Value="טקסט השאילתה" />
+			<Item Name="EventsProcessSchema.Caption" Value="אובייקט בסיס" />
+		</Items>
+	</Group>
+</Resources>

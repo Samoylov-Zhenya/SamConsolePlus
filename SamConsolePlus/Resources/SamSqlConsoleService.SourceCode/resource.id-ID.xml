@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="id-ID">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SamSqlConsoleService" />
+			<Item Name="LocalizableStrings.BlockedWordsMessage.Value" Value="Kueri berisi kata yang dilarang untuk Anda: {0}. Kueri tidak dijalankan." />
+		</Items>
+	</Group>
+</Resources>

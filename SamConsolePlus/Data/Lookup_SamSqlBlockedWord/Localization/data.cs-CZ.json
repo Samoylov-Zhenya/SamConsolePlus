@@ -1,0 +1,23 @@
+{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "fa19d170-04de-4d76-8014-3d22c50709f8"
+        },
+        {
+          "SchemaColumnUId": "009571ab-9c5d-4a20-bf83-dd499ed5a833",
+          "ColumnName": "Description",
+          "Value": "Slova zak\u00E1zan\u00E1 v dotazech konzole SQL. Pr\u00E1zdn\u00E9 \u201EU\u017Eivatel nebo role\u201C = pro v\u0161echny"
+        },
+        {
+          "SchemaColumnUId": "547bff8d-f717-4316-846c-3ff1f0e36e6e",
+          "ColumnName": "Name",
+          "Value": "Zak\u00E1zan\u00E9 slovo konzole SQL"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="コマンド詳細" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="コマンド" />
+		</Items>
+	</Group>
+</Resources>

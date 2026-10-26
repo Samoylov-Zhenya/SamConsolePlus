@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Trang danh sách lệnh" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Bảng điều khiển truy vấn SQL" />
+			<Item Name="LocalizableStrings.Input_69u02zt_label.Value" Value="Văn bản" />
+			<Item Name="LocalizableStrings.Input_69u02zt_placeholder.Value" Value="Lệnh SQL" />
+			<Item Name="LocalizableStrings.Input_69u02zt_tooltip.Value" Value="Bạn có thể viết mã cần thực thi tại đây" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_caption.Value" Value="Bộ lọc nhanh" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_config_caption.Value" Value="Loại CSDL" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_config_hint.Value" Value="Lọc theo loại cơ sở dữ liệu" />
+			<Item Name="LocalizableStrings.PDS_SamSqlDatabaseType.Value" Value="Loại CSDL" />
+			<Item Name="LocalizableStrings.Button_InsertCommand_title.Value" Value="Chèn vào bảng điều khiển" />
+			<Item Name="LocalizableStrings.MenuItem_InsertCommand_caption.Value" Value="Chèn vào bảng điều khiển" />
+			<Item Name="LocalizableStrings.DataGrid_BlockedWordsDS_Name.Value" Value="Từ" />
+			<Item Name="LocalizableStrings.MenuItem_OpenBlockedWord_caption.Value" Value="Mở" />
+			<Item Name="LocalizableStrings.MenuItem_DeleteBlockedWord_caption.Value" Value="Xóa" />
+			<Item Name="LocalizableStrings.TabContainer_Commands_caption.Value" Value="Lệnh" />
+			<Item Name="LocalizableStrings.TabContainer_BlockedWords_caption.Value" Value="Từ bị chặn" />
+			<Item Name="LocalizableStrings.SearchFilter_BlockedWords_placeholder.Value" Value="Tìm kiếm" />
+			<Item Name="LocalizableStrings.Button_AddBlockedWord_title.Value" Value="Thêm từ bị chặn" />
+			<Item Name="LocalizableStrings.Button_RefreshBlockedWords_title.Value" Value="Làm mới" />
+			<Item Name="LocalizableStrings.TabContainer_Logs_caption.Value" Value="Nhật ký" />
+			<Item Name="LocalizableStrings.Button_RefreshLogs_title.Value" Value="Làm mới" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_CreatedOn.Value" Value="Bắt đầu lúc" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_Contact.Value" Value="Người dùng" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_QueryText.Value" Value="Nội dung truy vấn" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_CompletedOn.Value" Value="Hoàn thành lúc" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_IpAdress.Value" Value="Địa chỉ IP" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,23 @@
+{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "fa19d170-04de-4d76-8014-3d22c50709f8"
+        },
+        {
+          "SchemaColumnUId": "009571ab-9c5d-4a20-bf83-dd499ed5a833",
+          "ColumnName": "Description",
+          "Value": "Az SQL-konzol lek\u00E9rdez\u00E9seiben tiltott szavak. \u00DCres \u201EFelhaszn\u00E1l\u00F3 vagy szerepk\u00F6r\u201D = mindenkire"
+        },
+        {
+          "SchemaColumnUId": "547bff8d-f717-4316-846c-3ff1f0e36e6e",
+          "ColumnName": "Name",
+          "Value": "SQL-konzol tiltott szava"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="bg-BG">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница със списък на команди" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Конзола за SQL заявки" />
+			<Item Name="LocalizableStrings.Input_69u02zt_label.Value" Value="Текст" />
+			<Item Name="LocalizableStrings.Input_69u02zt_placeholder.Value" Value="SQL команда" />
+			<Item Name="LocalizableStrings.Input_69u02zt_tooltip.Value" Value="Тук можете да напишете кода за изпълнение" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_caption.Value" Value="Бърз филтър" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_config_caption.Value" Value="Тип БД" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_config_hint.Value" Value="Филтриране по тип база данни" />
+			<Item Name="LocalizableStrings.PDS_SamSqlDatabaseType.Value" Value="Тип БД" />
+			<Item Name="LocalizableStrings.Button_InsertCommand_title.Value" Value="Вмъкване в конзолата" />
+			<Item Name="LocalizableStrings.MenuItem_InsertCommand_caption.Value" Value="Вмъкване в конзолата" />
+			<Item Name="LocalizableStrings.DataGrid_BlockedWordsDS_Name.Value" Value="Дума" />
+			<Item Name="LocalizableStrings.MenuItem_OpenBlockedWord_caption.Value" Value="Отваряне" />
+			<Item Name="LocalizableStrings.MenuItem_DeleteBlockedWord_caption.Value" Value="Изтриване" />
+			<Item Name="LocalizableStrings.TabContainer_Commands_caption.Value" Value="Команди" />
+			<Item Name="LocalizableStrings.TabContainer_BlockedWords_caption.Value" Value="Забранени думи" />
+			<Item Name="LocalizableStrings.SearchFilter_BlockedWords_placeholder.Value" Value="Търсене" />
+			<Item Name="LocalizableStrings.Button_AddBlockedWord_title.Value" Value="Добавяне на забранена дума" />
+			<Item Name="LocalizableStrings.Button_RefreshBlockedWords_title.Value" Value="Опресняване" />
+			<Item Name="LocalizableStrings.TabContainer_Logs_caption.Value" Value="Логове" />
+			<Item Name="LocalizableStrings.Button_RefreshLogs_title.Value" Value="Обнови" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_CreatedOn.Value" Value="Стартирано на" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_Contact.Value" Value="Потребител" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_QueryText.Value" Value="Текст на заявката" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_CompletedOn.Value" Value="Завършено на" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_IpAdress.Value" Value="IP адрес" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="id-ID">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SamCodeEditor" />
+			<Item Name="LocalizableStrings.SqlPlaceholder.Value" Value="Masukkan kueri SQL..." />
+			<Item Name="LocalizableStrings.ClearButtonHint.Value" Value="Bersihkan" />
+			<Item Name="LocalizableStrings.ExecuteButtonCaption.Value" Value="Jalankan" />
+			<Item Name="LocalizableStrings.EditorResizeHint.Value" Value="Seret untuk mengubah tinggi editor" />
+			<Item Name="LocalizableStrings.SearchPlaceholder.Value" Value="Cari..." />
+			<Item Name="LocalizableStrings.RowLimitLabel.Value" Value="Baris:" />
+			<Item Name="LocalizableStrings.ExecutionTimeMessage.Value" Value="Waktu eksekusi: {0} dtk" />
+			<Item Name="LocalizableStrings.AccessDeniedMessage.Value" Value="Akses ditolak: operasi CanUseSqlConsole dilarang." />
+			<Item Name="LocalizableStrings.UnknownErrorMessage.Value" Value="Kesalahan tidak dikenal" />
+			<Item Name="LocalizableStrings.RowsAffectedMessage.Value" Value="Baris terpengaruh: {0}" />
+			<Item Name="LocalizableStrings.ResultCaption.Value" Value="Hasil {0}" />
+			<Item Name="LocalizableStrings.RowsShownHint.Value" Value="Ditampilkan: {0}" />
+			<Item Name="LocalizableStrings.RowsFoundHint.Value" Value="ditemukan: {0}" />
+			<Item Name="LocalizableStrings.RowsTotalHint.Value" Value="total: {0}" />
+			<Item Name="LocalizableStrings.ExecutingMessage.Value" Value="Menjalankan... {0} dtk" />
+			<Item Name="LocalizableStrings.PanelsResizeHint.Value" Value="Seret untuk mengubah ukuran panel" />
+		</Items>
+	</Group>
+</Resources>

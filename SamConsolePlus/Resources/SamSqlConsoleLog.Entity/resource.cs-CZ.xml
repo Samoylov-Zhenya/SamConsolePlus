@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Protokol konzole SQL" />
+			<Item Name="Columns.CompletedOn.Caption" Value="Dokončeno" />
+			<Item Name="Columns.Contact.Caption" Value="Kontakt" />
+			<Item Name="Columns.IpAdress.Caption" Value="IP adresa" />
+			<Item Name="Columns.QueryText.Caption" Value="Text dotazu" />
+			<Item Name="EventsProcessSchema.Caption" Value="Base object" />
+		</Items>
+	</Group>
+</Resources>

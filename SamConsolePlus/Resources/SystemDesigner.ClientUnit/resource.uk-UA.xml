@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CopilotAgentsPage.Value" Value="Агенти Creatio.ai" />
+			<Item Name="LocalizableStrings.ExtAccessSectionCaption.Value" Value="Доступ зовнішніх програм" />
+			<Item Name="LocalizableStrings.FileImportLinkCaption.Value" Value="Імпорт даних" />
+			<Item Name="LocalizableStrings.LanguageSectionCaption.Value" Value="Мови" />
+			<Item Name="LocalizableStrings.LdapLinkCaption.Value" Value="Налаштування інтеграції з LDAP" />
+			<Item Name="LocalizableStrings.ScoringModelCaption.Value" Value="Скорингові моделі" />
+			<Item Name="LocalizableStrings.SsoSettingsCaption.Value" Value="Конфігурація Single Sign On" />
+			<Item Name="LocalizableStrings.TranslationSectionCaption.Value" Value="Переклади" />
+			<Item Name="LocalizableStrings.WebServicesCaption.Value" Value="Налаштування інтеграції з веб-сервісами" />
+			<Item Name="LocalizableStrings.SqlConsoleCaption.Value" Value="Консоль SQL-запитів" />
+			<Item Name="LocalizableStrings.TechnicalUsersSectionLinkCaption.Value" Value="Технічні користувачі" />
+		</Items>
+	</Group>
+</Resources>

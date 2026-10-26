@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sv-SE">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SamCodeEditor" />
+			<Item Name="LocalizableStrings.SqlPlaceholder.Value" Value="Ange SQL-fråga..." />
+			<Item Name="LocalizableStrings.ClearButtonHint.Value" Value="Rensa" />
+			<Item Name="LocalizableStrings.ExecuteButtonCaption.Value" Value="Kör" />
+			<Item Name="LocalizableStrings.EditorResizeHint.Value" Value="Dra för att ändra redigerarens höjd" />
+			<Item Name="LocalizableStrings.SearchPlaceholder.Value" Value="Sök..." />
+			<Item Name="LocalizableStrings.RowLimitLabel.Value" Value="Rader:" />
+			<Item Name="LocalizableStrings.ExecutionTimeMessage.Value" Value="Körningstid: {0} s" />
+			<Item Name="LocalizableStrings.AccessDeniedMessage.Value" Value="Åtkomst nekad: åtgärden CanUseSqlConsole är förbjuden." />
+			<Item Name="LocalizableStrings.UnknownErrorMessage.Value" Value="Okänt fel" />
+			<Item Name="LocalizableStrings.RowsAffectedMessage.Value" Value="Påverkade rader: {0}" />
+			<Item Name="LocalizableStrings.ResultCaption.Value" Value="Resultat {0}" />
+			<Item Name="LocalizableStrings.RowsShownHint.Value" Value="Visas: {0}" />
+			<Item Name="LocalizableStrings.RowsFoundHint.Value" Value="hittade: {0}" />
+			<Item Name="LocalizableStrings.RowsTotalHint.Value" Value="totalt: {0}" />
+			<Item Name="LocalizableStrings.ExecutingMessage.Value" Value="Körs... {0} s" />
+			<Item Name="LocalizableStrings.PanelsResizeHint.Value" Value="Dra för att ändra panelernas storlek" />
+		</Items>
+	</Group>
+</Resources>

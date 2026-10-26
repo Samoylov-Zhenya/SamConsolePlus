@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sv-SE">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Minisida för blockerat ord i SQL-konsolen" />
+			<Item Name="LocalizableStrings.Button_SetRecordRights_title.Value" Value="Åtkomsträttigheter" />
+		</Items>
+	</Group>
+</Resources>

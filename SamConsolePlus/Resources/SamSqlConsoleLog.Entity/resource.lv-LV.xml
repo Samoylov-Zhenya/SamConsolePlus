@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SQL konsoles žurnāls" />
+			<Item Name="Columns.CompletedOn.Caption" Value="Pabeigts" />
+			<Item Name="Columns.Contact.Caption" Value="Kontaktpersona" />
+			<Item Name="Columns.IpAdress.Caption" Value="IP adrese" />
+			<Item Name="Columns.QueryText.Caption" Value="Vaicājuma teksts" />
+			<Item Name="EventsProcessSchema.Caption" Value="Pamata objekts" />
+		</Items>
+	</Group>
+</Resources>

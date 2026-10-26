@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="bg-BG">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница на запис на команда" />
+			<Item Name="LocalizableStrings.ListAction_AddDatabaseType_caption.Value" Value="Добавяне на нов" />
+		</Items>
+	</Group>
+</Resources>

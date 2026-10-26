@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Geblokkeerd woord van SQL-console" />
+			<Item Name="Columns.SamAdminUnit.Caption" Value="Gebruiker of rol" />
+			<Item Name="EventsProcessSchema.Caption" Value="Basisobject" />
+		</Items>
+	</Group>
+</Resources>

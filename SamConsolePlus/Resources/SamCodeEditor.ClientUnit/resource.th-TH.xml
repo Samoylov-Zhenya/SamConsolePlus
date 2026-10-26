@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SamCodeEditor" />
+			<Item Name="LocalizableStrings.SqlPlaceholder.Value" Value="ป้อนคิวรี SQL..." />
+			<Item Name="LocalizableStrings.ClearButtonHint.Value" Value="ล้าง" />
+			<Item Name="LocalizableStrings.ExecuteButtonCaption.Value" Value="ดำเนินการ" />
+			<Item Name="LocalizableStrings.EditorResizeHint.Value" Value="ลากเพื่อปรับความสูงของตัวแก้ไข" />
+			<Item Name="LocalizableStrings.SearchPlaceholder.Value" Value="ค้นหา..." />
+			<Item Name="LocalizableStrings.RowLimitLabel.Value" Value="แถว:" />
+			<Item Name="LocalizableStrings.ExecutionTimeMessage.Value" Value="เวลาดำเนินการ: {0} วินาที" />
+			<Item Name="LocalizableStrings.AccessDeniedMessage.Value" Value="การเข้าถึงถูกปฏิเสธ: การดำเนินการ CanUseSqlConsole ถูกห้าม" />
+			<Item Name="LocalizableStrings.UnknownErrorMessage.Value" Value="ข้อผิดพลาดที่ไม่รู้จัก" />
+			<Item Name="LocalizableStrings.RowsAffectedMessage.Value" Value="จำนวนแถวที่ได้รับผลกระทบ: {0}" />
+			<Item Name="LocalizableStrings.ResultCaption.Value" Value="ผลลัพธ์ {0}" />
+			<Item Name="LocalizableStrings.RowsShownHint.Value" Value="แสดง: {0}" />
+			<Item Name="LocalizableStrings.RowsFoundHint.Value" Value="พบ: {0}" />
+			<Item Name="LocalizableStrings.RowsTotalHint.Value" Value="ทั้งหมด: {0}" />
+			<Item Name="LocalizableStrings.ExecutingMessage.Value" Value="กำลังดำเนินการ... {0} วินาที" />
+			<Item Name="LocalizableStrings.PanelsResizeHint.Value" Value="ลากเพื่อปรับขนาดแผง" />
+		</Items>
+	</Group>
+</Resources>

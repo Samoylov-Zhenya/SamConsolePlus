@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Opdracht" />
+			<Item Name="Columns.SamCode.Caption" Value="Code" />
+			<Item Name="Columns.SamName.Caption" Value="Naam" />
+			<Item Name="Columns.SamSqlDatabaseType.Caption" Value="SQL-databasetype" />
+		</Items>
+	</Group>
+</Resources>

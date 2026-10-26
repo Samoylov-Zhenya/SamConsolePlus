@@ -1,0 +1,35 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "6a94c12c-deaa-4a45-9339-57cd0b39a853",
+      "A2": "SamSqlBlockedWordRelatedPage",
+      "A5": "b89ac747-0571-4dbd-80bf-7a9bcafcc0cf",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "5eceb430-0eeb-45e3-ab8f-42d6c5d38016",
+      "B8": "8.3.2.4199",
+      "AD1": "87190ed6-6935-4ffd-96a2-cc64766b950c",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+  "Pages": [
+    {
+      "UId": "441b268f-868a-4c05-96f8-da62b1fdb4a7",
+      "PageSchemaUId": "a5934bbb-69d1-4f23-9a69-ad2a7c42000c",
+      "IsDefault": true,
+      "IsSspDefault": false,
+      "Actions": {
+        "Add": true
+      },
+      "Role": null,
+      "TypeColumnValue": null
+    }
+  ],
+  "TypeColumnUId": null
+}
+    }
+  }
+}

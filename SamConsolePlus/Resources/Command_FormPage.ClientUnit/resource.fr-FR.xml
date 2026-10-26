@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Page de formulaire de commande" />
+			<Item Name="LocalizableStrings.ListAction_AddDatabaseType_caption.Value" Value="Ajouter" />
+		</Items>
+	</Group>
+</Resources>

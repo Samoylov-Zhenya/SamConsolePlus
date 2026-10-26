@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Журнал SQL-консолі" />
+			<Item Name="Columns.CompletedOn.Caption" Value="Дата виконання" />
+			<Item Name="Columns.Contact.Caption" Value="Контакт" />
+			<Item Name="Columns.IpAdress.Caption" Value="IP-адреса" />
+			<Item Name="Columns.QueryText.Caption" Value="Текст запиту" />
+			<Item Name="EventsProcessSchema.Caption" Value="Базовий об'єкт" />
+		</Items>
+	</Group>
+</Resources>

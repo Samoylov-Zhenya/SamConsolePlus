@@ -1,0 +1,8 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/SamConsolePlus/Schemas/SamCommand/SamCommand.cs" Condition="Exists('$(PkgPath)/SamConsolePlus/Schemas/SamCommand/SamCommand.cs')" />
+		<Compile Include="$(PkgPath)/SamConsolePlus/Schemas/SamSqlBlockedWord/SamSqlBlockedWord.cs" Condition="Exists('$(PkgPath)/SamConsolePlus/Schemas/SamSqlBlockedWord/SamSqlBlockedWord.cs')" />
+		<Compile Include="$(PkgPath)/SamConsolePlus/Schemas/SamSqlConsoleLog/SamSqlConsoleLog.cs" Condition="Exists('$(PkgPath)/SamConsolePlus/Schemas/SamSqlConsoleLog/SamSqlConsoleLog.cs')" />
+		<Compile Include="$(PkgPath)/SamConsolePlus/Schemas/SamSqlDatabaseType/SamSqlDatabaseType.cs" Condition="Exists('$(PkgPath)/SamConsolePlus/Schemas/SamSqlDatabaseType/SamSqlDatabaseType.cs')" />
+	</ItemGroup>
+</Project>

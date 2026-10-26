@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Pagină listă comenzi" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Consolă de interogări SQL" />
+			<Item Name="LocalizableStrings.Input_69u02zt_label.Value" Value="Text" />
+			<Item Name="LocalizableStrings.Input_69u02zt_placeholder.Value" Value="Comandă SQL" />
+			<Item Name="LocalizableStrings.Input_69u02zt_tooltip.Value" Value="Aici puteți scrie codul de executat" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_caption.Value" Value="Filtru rapid" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_config_caption.Value" Value="Tip BD" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_config_hint.Value" Value="Filtrare după tipul bazei de date" />
+			<Item Name="LocalizableStrings.PDS_SamSqlDatabaseType.Value" Value="Tip BD" />
+			<Item Name="LocalizableStrings.Button_InsertCommand_title.Value" Value="Inserare în consolă" />
+			<Item Name="LocalizableStrings.MenuItem_InsertCommand_caption.Value" Value="Inserare în consolă" />
+			<Item Name="LocalizableStrings.DataGrid_BlockedWordsDS_Name.Value" Value="Cuvânt" />
+			<Item Name="LocalizableStrings.MenuItem_OpenBlockedWord_caption.Value" Value="Deschidere" />
+			<Item Name="LocalizableStrings.MenuItem_DeleteBlockedWord_caption.Value" Value="Ștergere" />
+			<Item Name="LocalizableStrings.TabContainer_Commands_caption.Value" Value="Comenzi" />
+			<Item Name="LocalizableStrings.TabContainer_BlockedWords_caption.Value" Value="Cuvinte blocate" />
+			<Item Name="LocalizableStrings.SearchFilter_BlockedWords_placeholder.Value" Value="Căutare" />
+			<Item Name="LocalizableStrings.Button_AddBlockedWord_title.Value" Value="Adăugare cuvânt blocat" />
+			<Item Name="LocalizableStrings.Button_RefreshBlockedWords_title.Value" Value="Reîmprospătare" />
+			<Item Name="LocalizableStrings.TabContainer_Logs_caption.Value" Value="Jurnale" />
+			<Item Name="LocalizableStrings.Button_RefreshLogs_title.Value" Value="Reîmprospătare" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_CreatedOn.Value" Value="Pornit la" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_Contact.Value" Value="Utilizator" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_QueryText.Value" Value="Textul interogării" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_CompletedOn.Value" Value="Finalizat la" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_IpAdress.Value" Value="Adresă IP" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SamSqlConsoleService" />
+			<Item Name="LocalizableStrings.BlockedWordsMessage.Value" Value="Truy vấn chứa các từ bị cấm đối với bạn: {0}. Truy vấn chưa được thực thi." />
+		</Items>
+	</Group>
+</Resources>

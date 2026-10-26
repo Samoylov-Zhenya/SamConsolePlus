@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="命令" />
+			<Item Name="Columns.SamCode.Caption" Value="程式碼" />
+			<Item Name="Columns.SamName.Caption" Value="名稱" />
+			<Item Name="Columns.SamSqlDatabaseType.Caption" Value="SQL 資料庫類型" />
+		</Items>
+	</Group>
+</Resources>

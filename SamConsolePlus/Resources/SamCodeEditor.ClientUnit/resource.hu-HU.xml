@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hu-HU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SamCodeEditor" />
+			<Item Name="LocalizableStrings.SqlPlaceholder.Value" Value="Írjon be egy SQL-lekérdezést..." />
+			<Item Name="LocalizableStrings.ClearButtonHint.Value" Value="Ürítés" />
+			<Item Name="LocalizableStrings.ExecuteButtonCaption.Value" Value="Végrehajtás" />
+			<Item Name="LocalizableStrings.EditorResizeHint.Value" Value="Húzza a szerkesztő magasságának módosításához" />
+			<Item Name="LocalizableStrings.SearchPlaceholder.Value" Value="Keresés..." />
+			<Item Name="LocalizableStrings.RowLimitLabel.Value" Value="Sorok:" />
+			<Item Name="LocalizableStrings.ExecutionTimeMessage.Value" Value="Végrehajtási idő: {0} mp" />
+			<Item Name="LocalizableStrings.AccessDeniedMessage.Value" Value="Hozzáférés megtagadva: a CanUseSqlConsole művelet tiltott." />
+			<Item Name="LocalizableStrings.UnknownErrorMessage.Value" Value="Ismeretlen hiba" />
+			<Item Name="LocalizableStrings.RowsAffectedMessage.Value" Value="Érintett sorok: {0}" />
+			<Item Name="LocalizableStrings.ResultCaption.Value" Value="{0}. eredmény" />
+			<Item Name="LocalizableStrings.RowsShownHint.Value" Value="Megjelenítve: {0}" />
+			<Item Name="LocalizableStrings.RowsFoundHint.Value" Value="találat: {0}" />
+			<Item Name="LocalizableStrings.RowsTotalHint.Value" Value="összesen: {0}" />
+			<Item Name="LocalizableStrings.ExecutingMessage.Value" Value="Végrehajtás... {0} mp" />
+			<Item Name="LocalizableStrings.PanelsResizeHint.Value" Value="Húzza a panelek átméretezéséhez" />
+		</Items>
+	</Group>
+</Resources>

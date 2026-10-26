@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sv-SE">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Blockerat ord i SQL-konsolen" />
+			<Item Name="Columns.SamAdminUnit.Caption" Value="Användare eller roll" />
+			<Item Name="EventsProcessSchema.Caption" Value="Base object" />
+		</Items>
+	</Group>
+</Resources>

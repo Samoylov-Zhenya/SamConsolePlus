@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "6a94c12c-deaa-4a45-9339-57cd0b39a853",
+    "Name": "SamSqlBlockedWordRelatedPage",
+    "ModifiedOnUtc": "\/Date(1792992729000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "SQL console blocked word (Page settings)"
+  }
+}

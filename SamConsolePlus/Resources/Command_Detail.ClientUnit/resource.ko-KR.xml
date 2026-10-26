@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="명령 세부 정보" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="명령" />
+		</Items>
+	</Group>
+</Resources>

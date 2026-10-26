@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="コマンド" />
+			<Item Name="Columns.SamCode.Caption" Value="コード" />
+			<Item Name="Columns.SamName.Caption" Value="名前" />
+			<Item Name="Columns.SamSqlDatabaseType.Caption" Value="SQL データベースの種類" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Trang mini từ bị chặn của bảng điều khiển SQL" />
+			<Item Name="LocalizableStrings.Button_SetRecordRights_title.Value" Value="Quyền truy cập" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hu-HU">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CopilotAgentsPage.Value" Value="Creatio.ai agents" />
+			<Item Name="LocalizableStrings.ExtAccessSectionCaption.Value" Value="Külső hozzáférés" />
+			<Item Name="LocalizableStrings.FileImportLinkCaption.Value" Value="Adatimportálás" />
+			<Item Name="LocalizableStrings.LanguageSectionCaption.Value" Value="Nyelvek" />
+			<Item Name="LocalizableStrings.LdapLinkCaption.Value" Value="LDAP integráció beállítása" />
+			<Item Name="LocalizableStrings.ScoringModelCaption.Value" Value="Pontozási modellek" />
+			<Item Name="LocalizableStrings.SsoSettingsCaption.Value" Value="Egyszeri bejelentkezés konfigurációja" />
+			<Item Name="LocalizableStrings.TranslationSectionCaption.Value" Value="Fordítás" />
+			<Item Name="LocalizableStrings.WebServicesCaption.Value" Value="Webszolgáltatások integrációjának beállítása" />
+			<Item Name="LocalizableStrings.SqlConsoleCaption.Value" Value="SQL-lekérdezési konzol" />
+			<Item Name="LocalizableStrings.TechnicalUsersSectionLinkCaption.Value" Value="Technikai felhasználók" />
+		</Items>
+	</Group>
+</Resources>

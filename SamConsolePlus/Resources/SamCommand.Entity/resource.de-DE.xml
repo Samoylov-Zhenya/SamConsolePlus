@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="de-DE">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Befehl" />
+			<Item Name="Columns.SamCode.Caption" Value="Code" />
+			<Item Name="Columns.SamName.Caption" Value="Name" />
+			<Item Name="Columns.SamSqlDatabaseType.Caption" Value="SQL-Datenbanktyp" />
+		</Items>
+	</Group>
+</Resources>

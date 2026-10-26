@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SamSqlConsoleService" />
+			<Item Name="LocalizableStrings.BlockedWordsMessage.Value" Value="Pyetja përmban fjalë të ndaluara për ju: {0}. Pyetja nuk u ekzekutua." />
+		</Items>
+	</Group>
+</Resources>

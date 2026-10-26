@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="سجل وحدة تحكم SQL" />
+			<Item Name="Columns.CompletedOn.Caption" Value="تاريخ الاكتمال" />
+			<Item Name="Columns.Contact.Caption" Value="جهة الاتصال" />
+			<Item Name="Columns.IpAdress.Caption" Value="عنوان IP" />
+			<Item Name="Columns.QueryText.Caption" Value="نص الاستعلام" />
+			<Item Name="EventsProcessSchema.Caption" Value="الكائن الأساسي" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="命令表單頁面" />
+			<Item Name="LocalizableStrings.ListAction_AddDatabaseType_caption.Value" Value="新增" />
+		</Items>
+	</Group>
+</Resources>

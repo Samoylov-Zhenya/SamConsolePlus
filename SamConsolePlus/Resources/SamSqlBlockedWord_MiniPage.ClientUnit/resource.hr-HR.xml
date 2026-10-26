@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Mini stranica zabranjene riječi SQL konzole" />
+			<Item Name="LocalizableStrings.Button_SetRecordRights_title.Value" Value="Prava pristupa" />
+		</Items>
+	</Group>
+</Resources>

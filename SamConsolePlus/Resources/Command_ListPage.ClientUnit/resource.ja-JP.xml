@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="コマンド リスト ページ" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="SQL クエリ コンソール" />
+			<Item Name="LocalizableStrings.Input_69u02zt_label.Value" Value="テキスト" />
+			<Item Name="LocalizableStrings.Input_69u02zt_placeholder.Value" Value="SQL コマンド" />
+			<Item Name="LocalizableStrings.Input_69u02zt_tooltip.Value" Value="ここに実行するコードを記述できます" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_caption.Value" Value="クイック フィルター" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_config_caption.Value" Value="DB の種類" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_config_hint.Value" Value="データベースの種類でフィルター" />
+			<Item Name="LocalizableStrings.PDS_SamSqlDatabaseType.Value" Value="DB の種類" />
+			<Item Name="LocalizableStrings.Button_InsertCommand_title.Value" Value="コンソールに挿入" />
+			<Item Name="LocalizableStrings.MenuItem_InsertCommand_caption.Value" Value="コンソールに挿入" />
+			<Item Name="LocalizableStrings.DataGrid_BlockedWordsDS_Name.Value" Value="語句" />
+			<Item Name="LocalizableStrings.MenuItem_OpenBlockedWord_caption.Value" Value="開く" />
+			<Item Name="LocalizableStrings.MenuItem_DeleteBlockedWord_caption.Value" Value="削除" />
+			<Item Name="LocalizableStrings.TabContainer_Commands_caption.Value" Value="コマンド" />
+			<Item Name="LocalizableStrings.TabContainer_BlockedWords_caption.Value" Value="禁止語" />
+			<Item Name="LocalizableStrings.SearchFilter_BlockedWords_placeholder.Value" Value="検索" />
+			<Item Name="LocalizableStrings.Button_AddBlockedWord_title.Value" Value="禁止語を追加" />
+			<Item Name="LocalizableStrings.Button_RefreshBlockedWords_title.Value" Value="更新" />
+			<Item Name="LocalizableStrings.TabContainer_Logs_caption.Value" Value="ログ" />
+			<Item Name="LocalizableStrings.Button_RefreshLogs_title.Value" Value="更新" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_CreatedOn.Value" Value="開始日時" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_Contact.Value" Value="ユーザー" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_QueryText.Value" Value="クエリテキスト" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_CompletedOn.Value" Value="完了日時" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_IpAdress.Value" Value="IPアドレス" />
+		</Items>
+	</Group>
+</Resources>

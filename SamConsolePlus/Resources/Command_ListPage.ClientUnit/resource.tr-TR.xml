@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Komut listesi sayfası" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="SQL sorgu konsolu" />
+			<Item Name="LocalizableStrings.Input_69u02zt_label.Value" Value="Metin" />
+			<Item Name="LocalizableStrings.Input_69u02zt_placeholder.Value" Value="SQL komutu" />
+			<Item Name="LocalizableStrings.Input_69u02zt_tooltip.Value" Value="Çalıştırılacak kodu buraya yazabilirsiniz" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_caption.Value" Value="Hızlı filtre" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_config_caption.Value" Value="Veritabanı türü" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_config_hint.Value" Value="Veritabanı türüne göre filtrele" />
+			<Item Name="LocalizableStrings.PDS_SamSqlDatabaseType.Value" Value="Veritabanı türü" />
+			<Item Name="LocalizableStrings.Button_InsertCommand_title.Value" Value="Konsola ekle" />
+			<Item Name="LocalizableStrings.MenuItem_InsertCommand_caption.Value" Value="Konsola ekle" />
+			<Item Name="LocalizableStrings.DataGrid_BlockedWordsDS_Name.Value" Value="Kelime" />
+			<Item Name="LocalizableStrings.MenuItem_OpenBlockedWord_caption.Value" Value="Aç" />
+			<Item Name="LocalizableStrings.MenuItem_DeleteBlockedWord_caption.Value" Value="Sil" />
+			<Item Name="LocalizableStrings.TabContainer_Commands_caption.Value" Value="Komutlar" />
+			<Item Name="LocalizableStrings.TabContainer_BlockedWords_caption.Value" Value="Engellenen kelimeler" />
+			<Item Name="LocalizableStrings.SearchFilter_BlockedWords_placeholder.Value" Value="Ara" />
+			<Item Name="LocalizableStrings.Button_AddBlockedWord_title.Value" Value="Engellenen kelime ekle" />
+			<Item Name="LocalizableStrings.Button_RefreshBlockedWords_title.Value" Value="Yenile" />
+			<Item Name="LocalizableStrings.TabContainer_Logs_caption.Value" Value="Günlükler" />
+			<Item Name="LocalizableStrings.Button_RefreshLogs_title.Value" Value="Yenile" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_CreatedOn.Value" Value="Başlangıç" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_Contact.Value" Value="Kullanıcı" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_QueryText.Value" Value="Sorgu metni" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_CompletedOn.Value" Value="Tamamlanma" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_IpAdress.Value" Value="IP adresi" />
+		</Items>
+	</Group>
+</Resources>

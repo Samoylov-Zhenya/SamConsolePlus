@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Příkaz" />
+			<Item Name="Columns.SamCode.Caption" Value="Kód" />
+			<Item Name="Columns.SamName.Caption" Value="Název" />
+			<Item Name="Columns.SamSqlDatabaseType.Caption" Value="Typ databáze SQL" />
+		</Items>
+	</Group>
+</Resources>

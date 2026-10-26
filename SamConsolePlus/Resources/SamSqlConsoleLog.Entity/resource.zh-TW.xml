@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SQL 主控台記錄" />
+			<Item Name="Columns.CompletedOn.Caption" Value="完成時間" />
+			<Item Name="Columns.Contact.Caption" Value="連絡人" />
+			<Item Name="Columns.IpAdress.Caption" Value="IP 位址" />
+			<Item Name="Columns.QueryText.Caption" Value="查詢文字" />
+			<Item Name="EventsProcessSchema.Caption" Value="基本物件" />
+		</Items>
+	</Group>
+</Resources>

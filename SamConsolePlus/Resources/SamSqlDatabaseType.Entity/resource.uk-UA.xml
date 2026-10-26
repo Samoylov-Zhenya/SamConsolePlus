@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Тип бази даних SQL" />
+			<Item Name="Columns.SamColor.Caption" Value="Колір" />
+		</Items>
+	</Group>
+</Resources>

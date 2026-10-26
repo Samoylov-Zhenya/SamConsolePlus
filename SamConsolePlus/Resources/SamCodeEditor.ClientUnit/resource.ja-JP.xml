@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SamCodeEditor" />
+			<Item Name="LocalizableStrings.SqlPlaceholder.Value" Value="SQL クエリを入力..." />
+			<Item Name="LocalizableStrings.ClearButtonHint.Value" Value="クリア" />
+			<Item Name="LocalizableStrings.ExecuteButtonCaption.Value" Value="実行" />
+			<Item Name="LocalizableStrings.EditorResizeHint.Value" Value="ドラッグしてエディターの高さを変更" />
+			<Item Name="LocalizableStrings.SearchPlaceholder.Value" Value="検索..." />
+			<Item Name="LocalizableStrings.RowLimitLabel.Value" Value="行数:" />
+			<Item Name="LocalizableStrings.ExecutionTimeMessage.Value" Value="実行時間: {0} 秒" />
+			<Item Name="LocalizableStrings.AccessDeniedMessage.Value" Value="アクセスが拒否されました: CanUseSqlConsole 操作は禁止されています。" />
+			<Item Name="LocalizableStrings.UnknownErrorMessage.Value" Value="不明なエラー" />
+			<Item Name="LocalizableStrings.RowsAffectedMessage.Value" Value="影響を受けた行数: {0}" />
+			<Item Name="LocalizableStrings.ResultCaption.Value" Value="結果 {0}" />
+			<Item Name="LocalizableStrings.RowsShownHint.Value" Value="表示: {0}" />
+			<Item Name="LocalizableStrings.RowsFoundHint.Value" Value="検出: {0}" />
+			<Item Name="LocalizableStrings.RowsTotalHint.Value" Value="合計: {0}" />
+			<Item Name="LocalizableStrings.ExecutingMessage.Value" Value="実行中... {0} 秒" />
+			<Item Name="LocalizableStrings.PanelsResizeHint.Value" Value="ドラッグしてパネルのサイズを変更" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Lijstpagina opdrachten" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="SQL-queryconsole" />
+			<Item Name="LocalizableStrings.Input_69u02zt_label.Value" Value="Tekst" />
+			<Item Name="LocalizableStrings.Input_69u02zt_placeholder.Value" Value="SQL-opdracht" />
+			<Item Name="LocalizableStrings.Input_69u02zt_tooltip.Value" Value="Hier kunt u de uit te voeren code schrijven" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_caption.Value" Value="Snelfilter" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_config_caption.Value" Value="DB-type" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_config_hint.Value" Value="Filteren op databasetype" />
+			<Item Name="LocalizableStrings.PDS_SamSqlDatabaseType.Value" Value="DB-type" />
+			<Item Name="LocalizableStrings.Button_InsertCommand_title.Value" Value="Invoegen in console" />
+			<Item Name="LocalizableStrings.MenuItem_InsertCommand_caption.Value" Value="Invoegen in console" />
+			<Item Name="LocalizableStrings.DataGrid_BlockedWordsDS_Name.Value" Value="Woord" />
+			<Item Name="LocalizableStrings.MenuItem_OpenBlockedWord_caption.Value" Value="Openen" />
+			<Item Name="LocalizableStrings.MenuItem_DeleteBlockedWord_caption.Value" Value="Verwijderen" />
+			<Item Name="LocalizableStrings.TabContainer_Commands_caption.Value" Value="Opdrachten" />
+			<Item Name="LocalizableStrings.TabContainer_BlockedWords_caption.Value" Value="Geblokkeerde woorden" />
+			<Item Name="LocalizableStrings.SearchFilter_BlockedWords_placeholder.Value" Value="Zoeken" />
+			<Item Name="LocalizableStrings.Button_AddBlockedWord_title.Value" Value="Geblokkeerd woord toevoegen" />
+			<Item Name="LocalizableStrings.Button_RefreshBlockedWords_title.Value" Value="Vernieuwen" />
+			<Item Name="LocalizableStrings.TabContainer_Logs_caption.Value" Value="Logboek" />
+			<Item Name="LocalizableStrings.Button_RefreshLogs_title.Value" Value="Vernieuwen" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_CreatedOn.Value" Value="Gestart op" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_Contact.Value" Value="Gebruiker" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_QueryText.Value" Value="Querytekst" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_CompletedOn.Value" Value="Voltooid op" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_IpAdress.Value" Value="IP-adres" />
+		</Items>
+	</Group>
+</Resources>

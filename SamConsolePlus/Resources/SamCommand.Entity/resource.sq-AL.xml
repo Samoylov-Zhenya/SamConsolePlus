@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Komandë" />
+			<Item Name="Columns.SamCode.Caption" Value="Kodi" />
+			<Item Name="Columns.SamName.Caption" Value="Emri" />
+			<Item Name="Columns.SamSqlDatabaseType.Caption" Value="Lloji i bazës së të dhënave SQL" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CopilotAgentsPage.Value" Value="Creatio.ai agents" />
+			<Item Name="LocalizableStrings.ExtAccessSectionCaption.Value" Value="Truy cập bên ngoài" />
+			<Item Name="LocalizableStrings.FileImportLinkCaption.Value" Value="Nhập dữ liệu" />
+			<Item Name="LocalizableStrings.LanguageSectionCaption.Value" Value="Ngôn ngữ" />
+			<Item Name="LocalizableStrings.LdapLinkCaption.Value" Value="Thiết lập tích hợp cho LDAP" />
+			<Item Name="LocalizableStrings.OAuthSectionCaption.Value" Value="Các ứng dụng tích hợp OAuth 2.0" />
+			<Item Name="LocalizableStrings.ScoringModelCaption.Value" Value="Mô hình chấm điểm" />
+			<Item Name="LocalizableStrings.SsoSettingsCaption.Value" Value="Single Sign On configuration" />
+			<Item Name="LocalizableStrings.TranslationSectionCaption.Value" Value="Biên dịch" />
+			<Item Name="LocalizableStrings.WebServicesCaption.Value" Value="Cài đặt dịch vụ tích hợp Web" />
+			<Item Name="LocalizableStrings.SqlConsoleCaption.Value" Value="Bảng điều khiển truy vấn SQL" />
+			<Item Name="LocalizableStrings.TechnicalUsersSectionLinkCaption.Value" Value="Người dùng kỹ thuật" />
+		</Items>
+	</Group>
+</Resources>

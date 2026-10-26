@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "a5934bbb-69d1-4f23-9a69-ad2a7c42000c",
+    "Name": "SamSqlBlockedWord_MiniPage",
+    "ModifiedOnUtc": "\/Date(1792994321000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "SQL console blocked word mini page"
+  }
+}

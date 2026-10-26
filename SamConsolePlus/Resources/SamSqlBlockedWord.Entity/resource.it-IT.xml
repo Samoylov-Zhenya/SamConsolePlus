@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="it-IT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Parola bloccata della console SQL" />
+			<Item Name="Columns.SamAdminUnit.Caption" Value="Utente o ruolo" />
+			<Item Name="EventsProcessSchema.Caption" Value="Oggetto base" />
+		</Items>
+	</Group>
+</Resources>

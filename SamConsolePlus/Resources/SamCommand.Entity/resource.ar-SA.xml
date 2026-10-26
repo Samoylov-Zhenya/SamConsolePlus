@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="أمر" />
+			<Item Name="Columns.SamCode.Caption" Value="الكود" />
+			<Item Name="Columns.SamName.Caption" Value="الاسم" />
+			<Item Name="Columns.SamSqlDatabaseType.Caption" Value="نوع قاعدة بيانات SQL" />
+		</Items>
+	</Group>
+</Resources>

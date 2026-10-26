@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="it-IT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Mini pagina parola bloccata della console SQL" />
+			<Item Name="LocalizableStrings.Button_SetRecordRights_title.Value" Value="Diritti di accesso" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="บันทึกคอนโซล SQL" />
+			<Item Name="Columns.CompletedOn.Caption" Value="เสร็จสิ้นเมื่อ" />
+			<Item Name="Columns.Contact.Caption" Value="ผู้ติดต่อ" />
+			<Item Name="Columns.IpAdress.Caption" Value="ที่อยู่ IP" />
+			<Item Name="Columns.QueryText.Caption" Value="ข้อความคิวรี" />
+			<Item Name="EventsProcessSchema.Caption" Value="Base object" />
+		</Items>
+	</Group>
+</Resources>

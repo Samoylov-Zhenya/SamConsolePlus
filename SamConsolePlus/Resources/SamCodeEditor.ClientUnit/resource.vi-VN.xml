@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SamCodeEditor" />
+			<Item Name="LocalizableStrings.SqlPlaceholder.Value" Value="Nhập truy vấn SQL..." />
+			<Item Name="LocalizableStrings.ClearButtonHint.Value" Value="Xóa nội dung" />
+			<Item Name="LocalizableStrings.ExecuteButtonCaption.Value" Value="Thực thi" />
+			<Item Name="LocalizableStrings.EditorResizeHint.Value" Value="Kéo để thay đổi chiều cao trình soạn thảo" />
+			<Item Name="LocalizableStrings.SearchPlaceholder.Value" Value="Tìm kiếm..." />
+			<Item Name="LocalizableStrings.RowLimitLabel.Value" Value="Số dòng:" />
+			<Item Name="LocalizableStrings.ExecutionTimeMessage.Value" Value="Thời gian thực thi: {0} giây" />
+			<Item Name="LocalizableStrings.AccessDeniedMessage.Value" Value="Truy cập bị từ chối: thao tác CanUseSqlConsole bị cấm." />
+			<Item Name="LocalizableStrings.UnknownErrorMessage.Value" Value="Lỗi không xác định" />
+			<Item Name="LocalizableStrings.RowsAffectedMessage.Value" Value="Số dòng bị ảnh hưởng: {0}" />
+			<Item Name="LocalizableStrings.ResultCaption.Value" Value="Kết quả {0}" />
+			<Item Name="LocalizableStrings.RowsShownHint.Value" Value="Hiển thị: {0}" />
+			<Item Name="LocalizableStrings.RowsFoundHint.Value" Value="tìm thấy: {0}" />
+			<Item Name="LocalizableStrings.RowsTotalHint.Value" Value="tổng: {0}" />
+			<Item Name="LocalizableStrings.ExecutingMessage.Value" Value="Đang thực thi... {0} giây" />
+			<Item Name="LocalizableStrings.PanelsResizeHint.Value" Value="Kéo để thay đổi kích thước các bảng" />
+		</Items>
+	</Group>
+</Resources>

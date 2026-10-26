@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SamSqlConsoleService" />
+			<Item Name="LocalizableStrings.BlockedWordsMessage.Value" Value="Interogarea conține cuvinte interzise pentru dvs.: {0}. Interogarea nu a fost executată." />
+		</Items>
+	</Group>
+</Resources>

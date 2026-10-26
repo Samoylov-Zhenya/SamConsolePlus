@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="صفحة مصغرة لكلمة محظورة في وحدة تحكم SQL" />
+			<Item Name="LocalizableStrings.Button_SetRecordRights_title.Value" Value="حقوق الوصول" />
+		</Items>
+	</Group>
+</Resources>

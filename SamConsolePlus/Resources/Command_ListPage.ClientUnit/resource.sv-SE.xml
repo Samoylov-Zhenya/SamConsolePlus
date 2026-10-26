@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sv-SE">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Listsida för kommandon" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="SQL-frågekonsol" />
+			<Item Name="LocalizableStrings.Input_69u02zt_label.Value" Value="Text" />
+			<Item Name="LocalizableStrings.Input_69u02zt_placeholder.Value" Value="SQL-kommando" />
+			<Item Name="LocalizableStrings.Input_69u02zt_tooltip.Value" Value="Här kan du skriva koden som ska köras" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_caption.Value" Value="Snabbfilter" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_config_caption.Value" Value="DB-typ" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_config_hint.Value" Value="Filtrera efter databastyp" />
+			<Item Name="LocalizableStrings.PDS_SamSqlDatabaseType.Value" Value="DB-typ" />
+			<Item Name="LocalizableStrings.Button_InsertCommand_title.Value" Value="Infoga i konsolen" />
+			<Item Name="LocalizableStrings.MenuItem_InsertCommand_caption.Value" Value="Infoga i konsolen" />
+			<Item Name="LocalizableStrings.DataGrid_BlockedWordsDS_Name.Value" Value="Ord" />
+			<Item Name="LocalizableStrings.MenuItem_OpenBlockedWord_caption.Value" Value="Öppna" />
+			<Item Name="LocalizableStrings.MenuItem_DeleteBlockedWord_caption.Value" Value="Ta bort" />
+			<Item Name="LocalizableStrings.TabContainer_Commands_caption.Value" Value="Kommandon" />
+			<Item Name="LocalizableStrings.TabContainer_BlockedWords_caption.Value" Value="Blockerade ord" />
+			<Item Name="LocalizableStrings.SearchFilter_BlockedWords_placeholder.Value" Value="Sök" />
+			<Item Name="LocalizableStrings.Button_AddBlockedWord_title.Value" Value="Lägg till blockerat ord" />
+			<Item Name="LocalizableStrings.Button_RefreshBlockedWords_title.Value" Value="Uppdatera" />
+			<Item Name="LocalizableStrings.TabContainer_Logs_caption.Value" Value="Loggar" />
+			<Item Name="LocalizableStrings.Button_RefreshLogs_title.Value" Value="Uppdatera" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_CreatedOn.Value" Value="Startad" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_Contact.Value" Value="Användare" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_QueryText.Value" Value="Frågetext" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_CompletedOn.Value" Value="Slutförd" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_IpAdress.Value" Value="IP-adress" />
+		</Items>
+	</Group>
+</Resources>

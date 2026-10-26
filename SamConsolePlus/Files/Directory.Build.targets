@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/SamConsolePlus/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/SamConsolePlus/Data/**" />
+		<Compile Remove="$(PkgPath)/SamConsolePlus/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/SamConsolePlus/Schemas\**" />
+		<Compile Remove="$(PkgPath)/SamConsolePlus/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/SamConsolePlus/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/SamConsolePlus/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/SamConsolePlus/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/SamConsolePlus/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/SamConsolePlus/Resources/**" />
+		<None Remove="$(PkgPath)/SamConsolePlus/Assemblies/**" />
+		<None Remove="$(PkgPath)/SamConsolePlus/Data/**" />
+		<None Remove="$(PkgPath)/SamConsolePlus/SqlScripts/**" />
+		<None Remove="$(PkgPath)/SamConsolePlus/Schemas/**" />
+		<None Remove="$(PkgPath)/SamConsolePlus/Resources/**" />
+  </ItemGroup>
+</Project>

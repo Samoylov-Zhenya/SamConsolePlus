@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pl-PL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Typ bazy danych SQL" />
+			<Item Name="Columns.SamColor.Caption" Value="Kolor" />
+		</Items>
+	</Group>
+</Resources>

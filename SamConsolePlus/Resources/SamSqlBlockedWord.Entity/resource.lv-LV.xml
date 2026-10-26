@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SQL konsoles aizliegtais vārds" />
+			<Item Name="Columns.SamAdminUnit.Caption" Value="Lietotājs vai loma" />
+			<Item Name="EventsProcessSchema.Caption" Value="Pamata objekts" />
+		</Items>
+	</Group>
+</Resources>

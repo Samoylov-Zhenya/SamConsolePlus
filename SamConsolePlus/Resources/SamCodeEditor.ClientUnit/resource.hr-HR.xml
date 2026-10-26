@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hr-HR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SamCodeEditor" />
+			<Item Name="LocalizableStrings.SqlPlaceholder.Value" Value="Unesite SQL upit..." />
+			<Item Name="LocalizableStrings.ClearButtonHint.Value" Value="Očisti" />
+			<Item Name="LocalizableStrings.ExecuteButtonCaption.Value" Value="Izvrši" />
+			<Item Name="LocalizableStrings.EditorResizeHint.Value" Value="Povucite za promjenu visine uređivača" />
+			<Item Name="LocalizableStrings.SearchPlaceholder.Value" Value="Pretraži..." />
+			<Item Name="LocalizableStrings.RowLimitLabel.Value" Value="Retci:" />
+			<Item Name="LocalizableStrings.ExecutionTimeMessage.Value" Value="Vrijeme izvršavanja: {0} s" />
+			<Item Name="LocalizableStrings.AccessDeniedMessage.Value" Value="Pristup odbijen: operacija CanUseSqlConsole je zabranjena." />
+			<Item Name="LocalizableStrings.UnknownErrorMessage.Value" Value="Nepoznata pogreška" />
+			<Item Name="LocalizableStrings.RowsAffectedMessage.Value" Value="Obuhvaćeni retci: {0}" />
+			<Item Name="LocalizableStrings.ResultCaption.Value" Value="Rezultat {0}" />
+			<Item Name="LocalizableStrings.RowsShownHint.Value" Value="Prikazano: {0}" />
+			<Item Name="LocalizableStrings.RowsFoundHint.Value" Value="pronađeno: {0}" />
+			<Item Name="LocalizableStrings.RowsTotalHint.Value" Value="ukupno: {0}" />
+			<Item Name="LocalizableStrings.ExecutingMessage.Value" Value="Izvršava se... {0} s" />
+			<Item Name="LocalizableStrings.PanelsResizeHint.Value" Value="Povucite za promjenu veličine ploča" />
+		</Items>
+	</Group>
+</Resources>

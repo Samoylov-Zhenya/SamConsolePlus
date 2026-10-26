@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SamCodeEditor" />
+			<Item Name="LocalizableStrings.SqlPlaceholder.Value" Value="SQL sorgusu girin..." />
+			<Item Name="LocalizableStrings.ClearButtonHint.Value" Value="Temizle" />
+			<Item Name="LocalizableStrings.ExecuteButtonCaption.Value" Value="Çalıştır" />
+			<Item Name="LocalizableStrings.EditorResizeHint.Value" Value="Düzenleyici yüksekliğini değiştirmek için sürükleyin" />
+			<Item Name="LocalizableStrings.SearchPlaceholder.Value" Value="Ara..." />
+			<Item Name="LocalizableStrings.RowLimitLabel.Value" Value="Satır:" />
+			<Item Name="LocalizableStrings.ExecutionTimeMessage.Value" Value="Yürütme süresi: {0} sn" />
+			<Item Name="LocalizableStrings.AccessDeniedMessage.Value" Value="Erişim reddedildi: CanUseSqlConsole işlemi yasak." />
+			<Item Name="LocalizableStrings.UnknownErrorMessage.Value" Value="Bilinmeyen hata" />
+			<Item Name="LocalizableStrings.RowsAffectedMessage.Value" Value="Etkilenen satır: {0}" />
+			<Item Name="LocalizableStrings.ResultCaption.Value" Value="Sonuç {0}" />
+			<Item Name="LocalizableStrings.RowsShownHint.Value" Value="Gösterilen: {0}" />
+			<Item Name="LocalizableStrings.RowsFoundHint.Value" Value="bulunan: {0}" />
+			<Item Name="LocalizableStrings.RowsTotalHint.Value" Value="toplam: {0}" />
+			<Item Name="LocalizableStrings.ExecutingMessage.Value" Value="Çalıştırılıyor... {0} sn" />
+			<Item Name="LocalizableStrings.PanelsResizeHint.Value" Value="Panelleri yeniden boyutlandırmak için sürükleyin" />
+		</Items>
+	</Group>
+</Resources>

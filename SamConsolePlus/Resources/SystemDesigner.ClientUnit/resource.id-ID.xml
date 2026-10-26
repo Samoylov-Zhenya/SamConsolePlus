@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="id-ID">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CopilotAgentsPage.Value" Value="Creatio.ai agents" />
+			<Item Name="LocalizableStrings.ExtAccessSectionCaption.Value" Value="Akses eksternal" />
+			<Item Name="LocalizableStrings.FileImportLinkCaption.Value" Value="Impor data" />
+			<Item Name="LocalizableStrings.LanguageSectionCaption.Value" Value="Bahasa" />
+			<Item Name="LocalizableStrings.LdapLinkCaption.Value" Value="Pengaturan integrasi LDAP" />
+			<Item Name="LocalizableStrings.ScoringModelCaption.Value" Value="Model penilaian" />
+			<Item Name="LocalizableStrings.SsoSettingsCaption.Value" Value="Konfigurasi Single Sign On" />
+			<Item Name="LocalizableStrings.TranslationSectionCaption.Value" Value="Terjemahan" />
+			<Item Name="LocalizableStrings.WebServicesCaption.Value" Value="Pengaturan integrasi layanan web" />
+			<Item Name="LocalizableStrings.SqlConsoleCaption.Value" Value="Konsol kueri SQL" />
+			<Item Name="LocalizableStrings.TechnicalUsersSectionLinkCaption.Value" Value="Pengguna teknis" />
+		</Items>
+	</Group>
+</Resources>

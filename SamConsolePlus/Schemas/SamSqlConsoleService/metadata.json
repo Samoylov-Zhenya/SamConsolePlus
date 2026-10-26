@@ -1,0 +1,24 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "SourceCodeSchemaManager",
+      "UId": "5808a019-fd9f-48e2-a3ef-2ee95940705e",
+      "A2": "SamSqlConsoleService",
+      "A5": "b89ac747-0571-4dbd-80bf-7a9bcafcc0cf",
+      "B1": [],
+      "B2": [
+        {
+          "UId": "c7f14f1c-7622-48e0-8580-a4f9954a9e31",
+          "A2": "BlockedWordsMessage",
+          "A3": "5808a019-fd9f-48e2-a3ef-2ee95940705e",
+          "A4": "5808a019-fd9f-48e2-a3ef-2ee95940705e",
+          "A5": "b89ac747-0571-4dbd-80bf-7a9bcafcc0cf"
+        }
+      ],
+      "B3": [],
+      "B6": "5eceb430-0eeb-45e3-ab8f-42d6c5d38016",
+      "B8": "8.3.2.4199",
+      "HD1": "50e3acc0-26fc-4237-a095-849a1d534bd3"
+    }
+  }
+}

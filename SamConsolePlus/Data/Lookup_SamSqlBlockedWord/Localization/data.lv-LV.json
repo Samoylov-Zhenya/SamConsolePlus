@@ -1,0 +1,23 @@
+{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "fa19d170-04de-4d76-8014-3d22c50709f8"
+        },
+        {
+          "SchemaColumnUId": "009571ab-9c5d-4a20-bf83-dd499ed5a833",
+          "ColumnName": "Description",
+          "Value": "SQL konsoles vaic\u0101jumos aizliegtie v\u0101rdi. Tuk\u0161s \u201CLietot\u0101js vai loma\u201D = visiem"
+        },
+        {
+          "SchemaColumnUId": "547bff8d-f717-4316-846c-3ff1f0e36e6e",
+          "ColumnName": "Name",
+          "Value": "SQL konsoles aizliegtais v\u0101rds"
+        }
+      ]
+    }
+  ]
+}

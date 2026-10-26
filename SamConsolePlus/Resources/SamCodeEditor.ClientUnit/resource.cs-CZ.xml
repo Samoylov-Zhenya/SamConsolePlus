@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SamCodeEditor" />
+			<Item Name="LocalizableStrings.SqlPlaceholder.Value" Value="Zadejte dotaz SQL..." />
+			<Item Name="LocalizableStrings.ClearButtonHint.Value" Value="Vymazat" />
+			<Item Name="LocalizableStrings.ExecuteButtonCaption.Value" Value="Provést" />
+			<Item Name="LocalizableStrings.EditorResizeHint.Value" Value="Přetažením změníte výšku editoru" />
+			<Item Name="LocalizableStrings.SearchPlaceholder.Value" Value="Hledat..." />
+			<Item Name="LocalizableStrings.RowLimitLabel.Value" Value="Řádky:" />
+			<Item Name="LocalizableStrings.ExecutionTimeMessage.Value" Value="Doba provádění: {0} s" />
+			<Item Name="LocalizableStrings.AccessDeniedMessage.Value" Value="Přístup odepřen: operace CanUseSqlConsole je zakázána." />
+			<Item Name="LocalizableStrings.UnknownErrorMessage.Value" Value="Neznámá chyba" />
+			<Item Name="LocalizableStrings.RowsAffectedMessage.Value" Value="Ovlivněné řádky: {0}" />
+			<Item Name="LocalizableStrings.ResultCaption.Value" Value="Výsledek {0}" />
+			<Item Name="LocalizableStrings.RowsShownHint.Value" Value="Zobrazeno: {0}" />
+			<Item Name="LocalizableStrings.RowsFoundHint.Value" Value="nalezeno: {0}" />
+			<Item Name="LocalizableStrings.RowsTotalHint.Value" Value="celkem: {0}" />
+			<Item Name="LocalizableStrings.ExecutingMessage.Value" Value="Provádí se... {0} s" />
+			<Item Name="LocalizableStrings.PanelsResizeHint.Value" Value="Přetažením změníte velikost panelů" />
+		</Items>
+	</Group>
+</Resources>

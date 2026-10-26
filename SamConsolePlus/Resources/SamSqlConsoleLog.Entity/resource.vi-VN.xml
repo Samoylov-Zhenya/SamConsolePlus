@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Nhật ký bảng điều khiển SQL" />
+			<Item Name="Columns.CompletedOn.Caption" Value="Hoàn thành lúc" />
+			<Item Name="Columns.Contact.Caption" Value="Liên hệ" />
+			<Item Name="Columns.IpAdress.Caption" Value="Địa chỉ IP" />
+			<Item Name="Columns.QueryText.Caption" Value="Văn bản truy vấn" />
+			<Item Name="EventsProcessSchema.Caption" Value="Base object" />
+		</Items>
+	</Group>
+</Resources>

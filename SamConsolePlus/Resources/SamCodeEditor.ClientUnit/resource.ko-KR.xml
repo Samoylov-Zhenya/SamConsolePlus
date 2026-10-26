@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SamCodeEditor" />
+			<Item Name="LocalizableStrings.SqlPlaceholder.Value" Value="SQL 쿼리 입력..." />
+			<Item Name="LocalizableStrings.ClearButtonHint.Value" Value="지우기" />
+			<Item Name="LocalizableStrings.ExecuteButtonCaption.Value" Value="실행" />
+			<Item Name="LocalizableStrings.EditorResizeHint.Value" Value="끌어서 편집기 높이 조정" />
+			<Item Name="LocalizableStrings.SearchPlaceholder.Value" Value="검색..." />
+			<Item Name="LocalizableStrings.RowLimitLabel.Value" Value="행:" />
+			<Item Name="LocalizableStrings.ExecutionTimeMessage.Value" Value="실행 시간: {0}초" />
+			<Item Name="LocalizableStrings.AccessDeniedMessage.Value" Value="액세스가 거부되었습니다: CanUseSqlConsole 작업이 금지되어 있습니다." />
+			<Item Name="LocalizableStrings.UnknownErrorMessage.Value" Value="알 수 없는 오류" />
+			<Item Name="LocalizableStrings.RowsAffectedMessage.Value" Value="영향을 받은 행: {0}" />
+			<Item Name="LocalizableStrings.ResultCaption.Value" Value="결과 {0}" />
+			<Item Name="LocalizableStrings.RowsShownHint.Value" Value="표시: {0}" />
+			<Item Name="LocalizableStrings.RowsFoundHint.Value" Value="찾음: {0}" />
+			<Item Name="LocalizableStrings.RowsTotalHint.Value" Value="전체: {0}" />
+			<Item Name="LocalizableStrings.ExecutingMessage.Value" Value="실행 중... {0}초" />
+			<Item Name="LocalizableStrings.PanelsResizeHint.Value" Value="끌어서 패널 크기 조정" />
+		</Items>
+	</Group>
+</Resources>

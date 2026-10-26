@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "ca262611-cdd4-4f63-ab71-11b1bed0473c",
+    "Name": "Command_ListPage",
+    "ModifiedOnUtc": "\/Date(1792993859000)\/",
+    "Parent": {
+      "UId": "b7b898d0-8c77-4953-c097-23fa6800da02",
+      "Name": "ListPageV3Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Command list page"
+  }
+}

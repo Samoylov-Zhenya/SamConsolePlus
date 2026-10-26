@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SQL 콘솔 차단 단어 미니 페이지" />
+			<Item Name="LocalizableStrings.Button_SetRecordRights_title.Value" Value="액세스 권한" />
+		</Items>
+	</Group>
+</Resources>

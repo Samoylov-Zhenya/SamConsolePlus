@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="bg-BG">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Мини страница на забранена дума в SQL конзолата" />
+			<Item Name="LocalizableStrings.Button_SetRecordRights_title.Value" Value="Права за достъп" />
+		</Items>
+	</Group>
+</Resources>

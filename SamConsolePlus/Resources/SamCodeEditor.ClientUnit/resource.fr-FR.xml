@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SamCodeEditor" />
+			<Item Name="LocalizableStrings.SqlPlaceholder.Value" Value="Saisissez une requête SQL..." />
+			<Item Name="LocalizableStrings.ClearButtonHint.Value" Value="Effacer" />
+			<Item Name="LocalizableStrings.ExecuteButtonCaption.Value" Value="Exécuter" />
+			<Item Name="LocalizableStrings.EditorResizeHint.Value" Value="Faites glisser pour modifier la hauteur de l'éditeur" />
+			<Item Name="LocalizableStrings.SearchPlaceholder.Value" Value="Rechercher..." />
+			<Item Name="LocalizableStrings.RowLimitLabel.Value" Value="Lignes :" />
+			<Item Name="LocalizableStrings.ExecutionTimeMessage.Value" Value="Durée d'exécution : {0} s" />
+			<Item Name="LocalizableStrings.AccessDeniedMessage.Value" Value="Accès refusé : l'opération CanUseSqlConsole est interdite." />
+			<Item Name="LocalizableStrings.UnknownErrorMessage.Value" Value="Erreur inconnue" />
+			<Item Name="LocalizableStrings.RowsAffectedMessage.Value" Value="Lignes affectées : {0}" />
+			<Item Name="LocalizableStrings.ResultCaption.Value" Value="Résultat {0}" />
+			<Item Name="LocalizableStrings.RowsShownHint.Value" Value="Affichées : {0}" />
+			<Item Name="LocalizableStrings.RowsFoundHint.Value" Value="trouvées : {0}" />
+			<Item Name="LocalizableStrings.RowsTotalHint.Value" Value="total : {0}" />
+			<Item Name="LocalizableStrings.ExecutingMessage.Value" Value="Exécution en cours... {0} s" />
+			<Item Name="LocalizableStrings.PanelsResizeHint.Value" Value="Faites glisser pour redimensionner les panneaux" />
+		</Items>
+	</Group>
+</Resources>

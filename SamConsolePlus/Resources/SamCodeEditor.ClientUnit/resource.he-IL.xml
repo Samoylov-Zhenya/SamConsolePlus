@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SamCodeEditor" />
+			<Item Name="LocalizableStrings.SqlPlaceholder.Value" Value="הזן שאילתת SQL..." />
+			<Item Name="LocalizableStrings.ClearButtonHint.Value" Value="נקה" />
+			<Item Name="LocalizableStrings.ExecuteButtonCaption.Value" Value="בצע" />
+			<Item Name="LocalizableStrings.EditorResizeHint.Value" Value="גרור כדי לשנות את גובה העורך" />
+			<Item Name="LocalizableStrings.SearchPlaceholder.Value" Value="חיפוש..." />
+			<Item Name="LocalizableStrings.RowLimitLabel.Value" Value="שורות:" />
+			<Item Name="LocalizableStrings.ExecutionTimeMessage.Value" Value="זמן ביצוע: {0} שנ׳" />
+			<Item Name="LocalizableStrings.AccessDeniedMessage.Value" Value="הגישה נדחתה: הפעולה CanUseSqlConsole אסורה." />
+			<Item Name="LocalizableStrings.UnknownErrorMessage.Value" Value="שגיאה לא ידועה" />
+			<Item Name="LocalizableStrings.RowsAffectedMessage.Value" Value="שורות שהושפעו: {0}" />
+			<Item Name="LocalizableStrings.ResultCaption.Value" Value="תוצאה {0}" />
+			<Item Name="LocalizableStrings.RowsShownHint.Value" Value="מוצגות: {0}" />
+			<Item Name="LocalizableStrings.RowsFoundHint.Value" Value="נמצאו: {0}" />
+			<Item Name="LocalizableStrings.RowsTotalHint.Value" Value="סה״כ: {0}" />
+			<Item Name="LocalizableStrings.ExecutingMessage.Value" Value="מבצע... {0} שנ׳" />
+			<Item Name="LocalizableStrings.PanelsResizeHint.Value" Value="גרור כדי לשנות את גודל החלוניות" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SamSqlConsoleService" />
+			<Item Name="LocalizableStrings.BlockedWordsMessage.Value" Value="คิวรีมีคำที่ห้ามใช้สำหรับคุณ: {0} คิวรีไม่ได้ถูกดำเนินการ" />
+		</Items>
+	</Group>
+</Resources>

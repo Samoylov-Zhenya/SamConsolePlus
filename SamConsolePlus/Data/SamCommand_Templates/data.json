@@ -1,0 +1,256 @@
+{
+	"PackageData": [
+		{
+			"Row": [
+				{
+					"SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+					"Value": "edcabb72-afd1-4095-b970-1fcc8bc86f6c"
+				},
+				{
+					"SchemaColumnUId": "c42dd9c2-6b30-e2ab-f2d4-0e45ee50c39b",
+					"Value": "SELECT"
+				},
+				{
+					"SchemaColumnUId": "743e400f-6439-5a78-ab91-2ec79a6541a6",
+					"Value": "SELECT TOP (100) *\nFROM [TableName]\n--WHERE [Id] = ''\nORDER BY [CreatedOn] DESC;"
+				},
+				{
+					"SchemaColumnUId": "070b1313-9656-48d8-9bb0-8b77b29c1ed6",
+					"Value": "0026baf4-8bc4-4425-8c9d-95680fd0522f",
+					"DisplayValue": "MsSql"
+				}
+			]
+		},
+		{
+			"Row": [
+				{
+					"SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+					"Value": "93c322af-06f5-4772-9da6-4354dedc5030"
+				},
+				{
+					"SchemaColumnUId": "c42dd9c2-6b30-e2ab-f2d4-0e45ee50c39b",
+					"Value": "INSERT"
+				},
+				{
+					"SchemaColumnUId": "743e400f-6439-5a78-ab91-2ec79a6541a6",
+					"Value": "INSERT INTO [TableName] ([Column1], [Column2])\nVALUES ('Value1', 'Value2');"
+				},
+				{
+					"SchemaColumnUId": "070b1313-9656-48d8-9bb0-8b77b29c1ed6",
+					"Value": "0026baf4-8bc4-4425-8c9d-95680fd0522f",
+					"DisplayValue": "MsSql"
+				}
+			]
+		},
+		{
+			"Row": [
+				{
+					"SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+					"Value": "0a547225-a002-4ef1-9c3e-8098186fc19a"
+				},
+				{
+					"SchemaColumnUId": "c42dd9c2-6b30-e2ab-f2d4-0e45ee50c39b",
+					"Value": "UPDATE"
+				},
+				{
+					"SchemaColumnUId": "743e400f-6439-5a78-ab91-2ec79a6541a6",
+					"Value": "UPDATE [TableName]\nSET [Column1] = 'Value1'\nWHERE [Id] = '';"
+				},
+				{
+					"SchemaColumnUId": "070b1313-9656-48d8-9bb0-8b77b29c1ed6",
+					"Value": "0026baf4-8bc4-4425-8c9d-95680fd0522f",
+					"DisplayValue": "MsSql"
+				}
+			]
+		},
+		{
+			"Row": [
+				{
+					"SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+					"Value": "bfbd29a1-2c2d-4e3b-9f8b-0fdebaf3792f"
+				},
+				{
+					"SchemaColumnUId": "c42dd9c2-6b30-e2ab-f2d4-0e45ee50c39b",
+					"Value": "DELETE"
+				},
+				{
+					"SchemaColumnUId": "743e400f-6439-5a78-ab91-2ec79a6541a6",
+					"Value": "DELETE FROM [TableName]\nWHERE [Id] = '';"
+				},
+				{
+					"SchemaColumnUId": "070b1313-9656-48d8-9bb0-8b77b29c1ed6",
+					"Value": "0026baf4-8bc4-4425-8c9d-95680fd0522f",
+					"DisplayValue": "MsSql"
+				}
+			]
+		},
+		{
+			"Row": [
+				{
+					"SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+					"Value": "ebe4a7c9-3c5d-4e46-a4d1-139fd6428c48"
+				},
+				{
+					"SchemaColumnUId": "c42dd9c2-6b30-e2ab-f2d4-0e45ee50c39b",
+					"Value": "SELECT"
+				},
+				{
+					"SchemaColumnUId": "743e400f-6439-5a78-ab91-2ec79a6541a6",
+					"Value": "SELECT *\nFROM \"TableName\"\n--WHERE \"Id\" = ''\nORDER BY \"CreatedOn\" DESC\nLIMIT 100;"
+				},
+				{
+					"SchemaColumnUId": "070b1313-9656-48d8-9bb0-8b77b29c1ed6",
+					"Value": "5ee27039-e794-4307-aaff-d18899aaa7d0",
+					"DisplayValue": "PostgreSql"
+				}
+			]
+		},
+		{
+			"Row": [
+				{
+					"SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+					"Value": "0ac6f686-ed62-46b6-bfa0-6c2c224ee698"
+				},
+				{
+					"SchemaColumnUId": "c42dd9c2-6b30-e2ab-f2d4-0e45ee50c39b",
+					"Value": "INSERT"
+				},
+				{
+					"SchemaColumnUId": "743e400f-6439-5a78-ab91-2ec79a6541a6",
+					"Value": "INSERT INTO \"TableName\" (\"Column1\", \"Column2\")\nVALUES ('Value1', 'Value2');"
+				},
+				{
+					"SchemaColumnUId": "070b1313-9656-48d8-9bb0-8b77b29c1ed6",
+					"Value": "5ee27039-e794-4307-aaff-d18899aaa7d0",
+					"DisplayValue": "PostgreSql"
+				}
+			]
+		},
+		{
+			"Row": [
+				{
+					"SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+					"Value": "9cd80ba5-a00e-4025-b28d-e9e100e55025"
+				},
+				{
+					"SchemaColumnUId": "c42dd9c2-6b30-e2ab-f2d4-0e45ee50c39b",
+					"Value": "UPDATE"
+				},
+				{
+					"SchemaColumnUId": "743e400f-6439-5a78-ab91-2ec79a6541a6",
+					"Value": "UPDATE \"TableName\"\nSET \"Column1\" = 'Value1'\nWHERE \"Id\" = '';"
+				},
+				{
+					"SchemaColumnUId": "070b1313-9656-48d8-9bb0-8b77b29c1ed6",
+					"Value": "5ee27039-e794-4307-aaff-d18899aaa7d0",
+					"DisplayValue": "PostgreSql"
+				}
+			]
+		},
+		{
+			"Row": [
+				{
+					"SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+					"Value": "233835fc-20da-48aa-a1ac-261ab3a8e82b"
+				},
+				{
+					"SchemaColumnUId": "c42dd9c2-6b30-e2ab-f2d4-0e45ee50c39b",
+					"Value": "DELETE"
+				},
+				{
+					"SchemaColumnUId": "743e400f-6439-5a78-ab91-2ec79a6541a6",
+					"Value": "DELETE FROM \"TableName\"\nWHERE \"Id\" = '';"
+				},
+				{
+					"SchemaColumnUId": "070b1313-9656-48d8-9bb0-8b77b29c1ed6",
+					"Value": "5ee27039-e794-4307-aaff-d18899aaa7d0",
+					"DisplayValue": "PostgreSql"
+				}
+			]
+		},
+		{
+			"Row": [
+				{
+					"SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+					"Value": "41cc1108-3341-482d-bfd2-91d9a7b1c61d"
+				},
+				{
+					"SchemaColumnUId": "c42dd9c2-6b30-e2ab-f2d4-0e45ee50c39b",
+					"Value": "SELECT"
+				},
+				{
+					"SchemaColumnUId": "743e400f-6439-5a78-ab91-2ec79a6541a6",
+					"Value": "SELECT *\nFROM \"TableName\"\n--WHERE \"Id\" = ''\nORDER BY \"CreatedOn\" DESC\nFETCH FIRST 100 ROWS ONLY"
+				},
+				{
+					"SchemaColumnUId": "070b1313-9656-48d8-9bb0-8b77b29c1ed6",
+					"Value": "ddcabf7f-29e8-4cc7-ac95-4f19338c030a",
+					"DisplayValue": "Oracle"
+				}
+			]
+		},
+		{
+			"Row": [
+				{
+					"SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+					"Value": "7969c9d0-983a-4d66-a8d0-b4756751627c"
+				},
+				{
+					"SchemaColumnUId": "c42dd9c2-6b30-e2ab-f2d4-0e45ee50c39b",
+					"Value": "INSERT"
+				},
+				{
+					"SchemaColumnUId": "743e400f-6439-5a78-ab91-2ec79a6541a6",
+					"Value": "INSERT INTO \"TableName\" (\"Column1\", \"Column2\")\nVALUES ('Value1', 'Value2')"
+				},
+				{
+					"SchemaColumnUId": "070b1313-9656-48d8-9bb0-8b77b29c1ed6",
+					"Value": "ddcabf7f-29e8-4cc7-ac95-4f19338c030a",
+					"DisplayValue": "Oracle"
+				}
+			]
+		},
+		{
+			"Row": [
+				{
+					"SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+					"Value": "6c9ac869-19a2-4f79-92d0-7fcef3acb68c"
+				},
+				{
+					"SchemaColumnUId": "c42dd9c2-6b30-e2ab-f2d4-0e45ee50c39b",
+					"Value": "UPDATE"
+				},
+				{
+					"SchemaColumnUId": "743e400f-6439-5a78-ab91-2ec79a6541a6",
+					"Value": "UPDATE \"TableName\"\nSET \"Column1\" = 'Value1'\nWHERE \"Id\" = ''"
+				},
+				{
+					"SchemaColumnUId": "070b1313-9656-48d8-9bb0-8b77b29c1ed6",
+					"Value": "ddcabf7f-29e8-4cc7-ac95-4f19338c030a",
+					"DisplayValue": "Oracle"
+				}
+			]
+		},
+		{
+			"Row": [
+				{
+					"SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+					"Value": "55b5cbac-5da5-4c67-aaaf-845c0cbac149"
+				},
+				{
+					"SchemaColumnUId": "c42dd9c2-6b30-e2ab-f2d4-0e45ee50c39b",
+					"Value": "DELETE"
+				},
+				{
+					"SchemaColumnUId": "743e400f-6439-5a78-ab91-2ec79a6541a6",
+					"Value": "DELETE FROM \"TableName\"\nWHERE \"Id\" = ''"
+				},
+				{
+					"SchemaColumnUId": "070b1313-9656-48d8-9bb0-8b77b29c1ed6",
+					"Value": "ddcabf7f-29e8-4cc7-ac95-4f19338c030a",
+					"DisplayValue": "Oracle"
+				}
+			]
+		}
+	]
+}

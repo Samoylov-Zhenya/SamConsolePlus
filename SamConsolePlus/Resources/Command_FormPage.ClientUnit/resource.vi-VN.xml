@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Trang biểu mẫu lệnh" />
+			<Item Name="LocalizableStrings.ListAction_AddDatabaseType_caption.Value" Value="Thêm mới" />
+		</Items>
+	</Group>
+</Resources>

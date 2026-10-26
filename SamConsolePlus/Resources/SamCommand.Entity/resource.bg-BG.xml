@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="bg-BG">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Команда" />
+			<Item Name="Columns.SamCode.Caption" Value="Код" />
+			<Item Name="Columns.SamName.Caption" Value="Име" />
+			<Item Name="Columns.SamSqlDatabaseType.Caption" Value="Тип на SQL базата данни" />
+		</Items>
+	</Group>
+</Resources>

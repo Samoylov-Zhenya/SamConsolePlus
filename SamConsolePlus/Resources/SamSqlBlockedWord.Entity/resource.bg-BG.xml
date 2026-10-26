@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="bg-BG">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Забранена дума в SQL конзолата" />
+			<Item Name="Columns.SamAdminUnit.Caption" Value="Потребител или роля" />
+			<Item Name="EventsProcessSchema.Caption" Value="Базов обект" />
+		</Items>
+	</Group>
+</Resources>

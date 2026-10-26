@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "449e7381-a0af-4bb7-b5bf-b6df48518f8f",
+    "Name": "Command_Detail",
+    "ModifiedOnUtc": "\/Date(1774215173000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Command detail",
+    "DependsOn": []
+  }
+}

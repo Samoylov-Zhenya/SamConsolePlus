@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CopilotAgentsPage.Value" Value="סוכני Creatio.ai" />
+			<Item Name="LocalizableStrings.ExtAccessSectionCaption.Value" Value="גישה חיצונית" />
+			<Item Name="LocalizableStrings.FileImportLinkCaption.Value" Value="יבוא נתונים" />
+			<Item Name="LocalizableStrings.LanguageSectionCaption.Value" Value="שפות" />
+			<Item Name="LocalizableStrings.LdapLinkCaption.Value" Value="הגדרת אינטגרציית LDAP" />
+			<Item Name="LocalizableStrings.OAuthSectionCaption.Value" Value="אפליקציות משולבות OAuth 2.0" />
+			<Item Name="LocalizableStrings.ScoringModelCaption.Value" Value="מודלי ניקוד" />
+			<Item Name="LocalizableStrings.SsoSettingsCaption.Value" Value="תצורת כניסה אחת" />
+			<Item Name="LocalizableStrings.TranslationSectionCaption.Value" Value="תרגום" />
+			<Item Name="LocalizableStrings.WebServicesCaption.Value" Value="הגדרת אינטגרציית Web Service" />
+			<Item Name="LocalizableStrings.SqlConsoleCaption.Value" Value="מסוף שאילתות SQL" />
+			<Item Name="LocalizableStrings.TechnicalUsersSectionLinkCaption.Value" Value="משתמשים טכניים" />
+		</Items>
+	</Group>
+</Resources>

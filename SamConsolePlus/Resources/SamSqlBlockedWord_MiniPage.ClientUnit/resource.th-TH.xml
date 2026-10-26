@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="หน้าย่อคำที่ถูกบล็อกในคอนโซล SQL" />
+			<Item Name="LocalizableStrings.Button_SetRecordRights_title.Value" Value="สิทธิ์การเข้าถึง" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="명령 목록 페이지" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="SQL 쿼리 콘솔" />
+			<Item Name="LocalizableStrings.Input_69u02zt_label.Value" Value="텍스트" />
+			<Item Name="LocalizableStrings.Input_69u02zt_placeholder.Value" Value="SQL 명령" />
+			<Item Name="LocalizableStrings.Input_69u02zt_tooltip.Value" Value="여기에 실행할 코드를 작성할 수 있습니다" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_caption.Value" Value="빠른 필터" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_config_caption.Value" Value="DB 유형" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_config_hint.Value" Value="데이터베이스 유형으로 필터링" />
+			<Item Name="LocalizableStrings.PDS_SamSqlDatabaseType.Value" Value="DB 유형" />
+			<Item Name="LocalizableStrings.Button_InsertCommand_title.Value" Value="콘솔에 삽입" />
+			<Item Name="LocalizableStrings.MenuItem_InsertCommand_caption.Value" Value="콘솔에 삽입" />
+			<Item Name="LocalizableStrings.DataGrid_BlockedWordsDS_Name.Value" Value="단어" />
+			<Item Name="LocalizableStrings.MenuItem_OpenBlockedWord_caption.Value" Value="열기" />
+			<Item Name="LocalizableStrings.MenuItem_DeleteBlockedWord_caption.Value" Value="삭제" />
+			<Item Name="LocalizableStrings.TabContainer_Commands_caption.Value" Value="명령" />
+			<Item Name="LocalizableStrings.TabContainer_BlockedWords_caption.Value" Value="차단 단어" />
+			<Item Name="LocalizableStrings.SearchFilter_BlockedWords_placeholder.Value" Value="검색" />
+			<Item Name="LocalizableStrings.Button_AddBlockedWord_title.Value" Value="차단 단어 추가" />
+			<Item Name="LocalizableStrings.Button_RefreshBlockedWords_title.Value" Value="새로 고침" />
+			<Item Name="LocalizableStrings.TabContainer_Logs_caption.Value" Value="로그" />
+			<Item Name="LocalizableStrings.Button_RefreshLogs_title.Value" Value="새로 고침" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_CreatedOn.Value" Value="시작 시간" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_Contact.Value" Value="사용자" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_QueryText.Value" Value="쿼리 텍스트" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_CompletedOn.Value" Value="완료 시간" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_IpAdress.Value" Value="IP 주소" />
+		</Items>
+	</Group>
+</Resources>

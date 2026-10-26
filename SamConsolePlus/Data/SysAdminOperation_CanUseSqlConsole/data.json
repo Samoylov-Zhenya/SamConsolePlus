@@ -1,0 +1,16 @@
+{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "2aec9cef-232e-413a-9a5a-9ddde2e8a2af",
+          "Value": "CanUseSqlConsole"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "a3dee3ff-9f78-4728-bf18-6fa3cbcb7e0a"
+        }
+      ]
+    }
+  ]
+}

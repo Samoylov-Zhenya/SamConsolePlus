@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hu-HU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Parancs" />
+			<Item Name="Columns.SamCode.Caption" Value="Kód" />
+			<Item Name="Columns.SamName.Caption" Value="Név" />
+			<Item Name="Columns.SamSqlDatabaseType.Caption" Value="SQL-adatbázis típusa" />
+		</Items>
+	</Group>
+</Resources>

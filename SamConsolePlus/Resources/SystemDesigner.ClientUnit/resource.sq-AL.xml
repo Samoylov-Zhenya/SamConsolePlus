@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CopilotAgentsPage.Value" Value="Creatio.ai agents" />
+			<Item Name="LocalizableStrings.ExtAccessSectionCaption.Value" Value="Aksesi i jashtëm" />
+			<Item Name="LocalizableStrings.FileImportLinkCaption.Value" Value="Importimi i të dhënave" />
+			<Item Name="LocalizableStrings.LanguageSectionCaption.Value" Value="Gjuhët" />
+			<Item Name="LocalizableStrings.LdapLinkCaption.Value" Value="Konfigurimi i integrimit të LDAP" />
+			<Item Name="LocalizableStrings.OAuthSectionCaption.Value" Value="Aplikacionet e integruara të OAuth 2.0" />
+			<Item Name="LocalizableStrings.ScoringModelCaption.Value" Value="Modele pikëzimi" />
+			<Item Name="LocalizableStrings.SsoSettingsCaption.Value" Value="Konfigurimi vetëm një herë i kyçjes" />
+			<Item Name="LocalizableStrings.TranslationSectionCaption.Value" Value="Përkthimi" />
+			<Item Name="LocalizableStrings.WebServicesCaption.Value" Value="Konfigurimi i integrimit të shërbimeve të uebit" />
+			<Item Name="LocalizableStrings.SqlConsoleCaption.Value" Value="Konsola e pyetjeve SQL" />
+			<Item Name="LocalizableStrings.TechnicalUsersSectionLinkCaption.Value" Value="Përdoruesit teknikë" />
+		</Items>
+	</Group>
+</Resources>

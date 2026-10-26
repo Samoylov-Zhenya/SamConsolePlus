@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Logboek van SQL-console" />
+			<Item Name="Columns.CompletedOn.Caption" Value="Voltooid op" />
+			<Item Name="Columns.Contact.Caption" Value="Contact" />
+			<Item Name="Columns.IpAdress.Caption" Value="IP-adres" />
+			<Item Name="Columns.QueryText.Caption" Value="Querytekst" />
+			<Item Name="EventsProcessSchema.Caption" Value="Basisobject" />
+		</Items>
+	</Group>
+</Resources>

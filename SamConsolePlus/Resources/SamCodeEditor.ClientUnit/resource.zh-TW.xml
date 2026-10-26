@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SamCodeEditor" />
+			<Item Name="LocalizableStrings.SqlPlaceholder.Value" Value="輸入 SQL 查詢..." />
+			<Item Name="LocalizableStrings.ClearButtonHint.Value" Value="清除" />
+			<Item Name="LocalizableStrings.ExecuteButtonCaption.Value" Value="執行" />
+			<Item Name="LocalizableStrings.EditorResizeHint.Value" Value="拖曳以調整編輯器高度" />
+			<Item Name="LocalizableStrings.SearchPlaceholder.Value" Value="搜尋..." />
+			<Item Name="LocalizableStrings.RowLimitLabel.Value" Value="列數：" />
+			<Item Name="LocalizableStrings.ExecutionTimeMessage.Value" Value="執行時間：{0} 秒" />
+			<Item Name="LocalizableStrings.AccessDeniedMessage.Value" Value="存取遭拒：禁止執行 CanUseSqlConsole 作業。" />
+			<Item Name="LocalizableStrings.UnknownErrorMessage.Value" Value="未知錯誤" />
+			<Item Name="LocalizableStrings.RowsAffectedMessage.Value" Value="受影響的列數：{0}" />
+			<Item Name="LocalizableStrings.ResultCaption.Value" Value="結果 {0}" />
+			<Item Name="LocalizableStrings.RowsShownHint.Value" Value="顯示：{0}" />
+			<Item Name="LocalizableStrings.RowsFoundHint.Value" Value="找到：{0}" />
+			<Item Name="LocalizableStrings.RowsTotalHint.Value" Value="總計：{0}" />
+			<Item Name="LocalizableStrings.ExecutingMessage.Value" Value="正在執行... {0} 秒" />
+			<Item Name="LocalizableStrings.PanelsResizeHint.Value" Value="拖曳以調整面板大小" />
+		</Items>
+	</Group>
+</Resources>

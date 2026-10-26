@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Jurnalul consolei SQL" />
+			<Item Name="Columns.CompletedOn.Caption" Value="Finalizat la" />
+			<Item Name="Columns.Contact.Caption" Value="Contact" />
+			<Item Name="Columns.IpAdress.Caption" Value="Adresă IP" />
+			<Item Name="Columns.QueryText.Caption" Value="Textul interogării" />
+			<Item Name="EventsProcessSchema.Caption" Value="Obiect de bază" />
+		</Items>
+	</Group>
+</Resources>

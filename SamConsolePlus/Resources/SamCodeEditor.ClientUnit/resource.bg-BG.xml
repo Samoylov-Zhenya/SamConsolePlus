@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="bg-BG">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SamCodeEditor" />
+			<Item Name="LocalizableStrings.SqlPlaceholder.Value" Value="Въведете SQL заявка..." />
+			<Item Name="LocalizableStrings.ClearButtonHint.Value" Value="Изчистване" />
+			<Item Name="LocalizableStrings.ExecuteButtonCaption.Value" Value="Изпълнение" />
+			<Item Name="LocalizableStrings.EditorResizeHint.Value" Value="Плъзнете, за да промените височината на редактора" />
+			<Item Name="LocalizableStrings.SearchPlaceholder.Value" Value="Търсене..." />
+			<Item Name="LocalizableStrings.RowLimitLabel.Value" Value="Редове:" />
+			<Item Name="LocalizableStrings.ExecutionTimeMessage.Value" Value="Време за изпълнение: {0} с" />
+			<Item Name="LocalizableStrings.AccessDeniedMessage.Value" Value="Достъпът е отказан: операцията CanUseSqlConsole е забранена." />
+			<Item Name="LocalizableStrings.UnknownErrorMessage.Value" Value="Неизвестна грешка" />
+			<Item Name="LocalizableStrings.RowsAffectedMessage.Value" Value="Засегнати редове: {0}" />
+			<Item Name="LocalizableStrings.ResultCaption.Value" Value="Резултат {0}" />
+			<Item Name="LocalizableStrings.RowsShownHint.Value" Value="Показани: {0}" />
+			<Item Name="LocalizableStrings.RowsFoundHint.Value" Value="намерени: {0}" />
+			<Item Name="LocalizableStrings.RowsTotalHint.Value" Value="общо: {0}" />
+			<Item Name="LocalizableStrings.ExecutingMessage.Value" Value="Изпълнява се... {0} с" />
+			<Item Name="LocalizableStrings.PanelsResizeHint.Value" Value="Плъзнете, за да промените размера на панелите" />
+		</Items>
+	</Group>
+</Resources>

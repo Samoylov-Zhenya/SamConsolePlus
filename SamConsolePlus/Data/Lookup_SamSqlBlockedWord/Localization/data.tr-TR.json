@@ -1,0 +1,23 @@
+{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "fa19d170-04de-4d76-8014-3d22c50709f8"
+        },
+        {
+          "SchemaColumnUId": "009571ab-9c5d-4a20-bf83-dd499ed5a833",
+          "ColumnName": "Description",
+          "Value": "SQL konsolu sorgular\u0131nda yasaklanan kelimeler. Bo\u015F \u0027Kullan\u0131c\u0131 veya rol\u0027 = herkes i\u00E7in"
+        },
+        {
+          "SchemaColumnUId": "547bff8d-f717-4316-846c-3ff1f0e36e6e",
+          "ColumnName": "Name",
+          "Value": "SQL konsolu engellenen kelime"
+        }
+      ]
+    }
+  ]
+}

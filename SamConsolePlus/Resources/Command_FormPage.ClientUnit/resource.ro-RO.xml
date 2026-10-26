@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Pagină formular comandă" />
+			<Item Name="LocalizableStrings.ListAction_AddDatabaseType_caption.Value" Value="Adăugare nou" />
+		</Items>
+	</Group>
+</Resources>

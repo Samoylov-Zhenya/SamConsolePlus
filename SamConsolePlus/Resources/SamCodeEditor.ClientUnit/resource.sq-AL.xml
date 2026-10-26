@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SamCodeEditor" />
+			<Item Name="LocalizableStrings.SqlPlaceholder.Value" Value="Shkruani pyetjen SQL..." />
+			<Item Name="LocalizableStrings.ClearButtonHint.Value" Value="Pastro" />
+			<Item Name="LocalizableStrings.ExecuteButtonCaption.Value" Value="Ekzekuto" />
+			<Item Name="LocalizableStrings.EditorResizeHint.Value" Value="Tërhiqni për të ndryshuar lartësinë e redaktuesit" />
+			<Item Name="LocalizableStrings.SearchPlaceholder.Value" Value="Kërko..." />
+			<Item Name="LocalizableStrings.RowLimitLabel.Value" Value="Rreshta:" />
+			<Item Name="LocalizableStrings.ExecutionTimeMessage.Value" Value="Koha e ekzekutimit: {0} s" />
+			<Item Name="LocalizableStrings.AccessDeniedMessage.Value" Value="Qasja u refuzua: operacioni CanUseSqlConsole është i ndaluar." />
+			<Item Name="LocalizableStrings.UnknownErrorMessage.Value" Value="Gabim i panjohur" />
+			<Item Name="LocalizableStrings.RowsAffectedMessage.Value" Value="Rreshta të prekur: {0}" />
+			<Item Name="LocalizableStrings.ResultCaption.Value" Value="Rezultati {0}" />
+			<Item Name="LocalizableStrings.RowsShownHint.Value" Value="Shfaqur: {0}" />
+			<Item Name="LocalizableStrings.RowsFoundHint.Value" Value="gjetur: {0}" />
+			<Item Name="LocalizableStrings.RowsTotalHint.Value" Value="gjithsej: {0}" />
+			<Item Name="LocalizableStrings.ExecutingMessage.Value" Value="Duke u ekzekutuar... {0} s" />
+			<Item Name="LocalizableStrings.PanelsResizeHint.Value" Value="Tërhiqni për të ndryshuar madhësinë e paneleve" />
+		</Items>
+	</Group>
+</Resources>

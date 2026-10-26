@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SamSqlConsoleService" />
+			<Item Name="LocalizableStrings.BlockedWordsMessage.Value" Value="쿼리에 사용이 금지된 단어가 포함되어 있습니다: {0}. 쿼리가 실행되지 않았습니다." />
+		</Items>
+	</Group>
+</Resources>

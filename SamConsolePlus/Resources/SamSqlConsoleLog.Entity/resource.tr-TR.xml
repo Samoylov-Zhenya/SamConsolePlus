@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SQL konsolu günlüğü" />
+			<Item Name="Columns.CompletedOn.Caption" Value="Tamamlanma tarihi" />
+			<Item Name="Columns.Contact.Caption" Value="Kişi" />
+			<Item Name="Columns.IpAdress.Caption" Value="IP adresi" />
+			<Item Name="Columns.QueryText.Caption" Value="Sorgu metni" />
+			<Item Name="EventsProcessSchema.Caption" Value="Temel nesne" />
+		</Items>
+	</Group>
+</Resources>

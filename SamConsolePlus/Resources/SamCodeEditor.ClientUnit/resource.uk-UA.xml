@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SamCodeEditor" />
+			<Item Name="LocalizableStrings.SqlPlaceholder.Value" Value="Введіть SQL-запит..." />
+			<Item Name="LocalizableStrings.ClearButtonHint.Value" Value="Очистити" />
+			<Item Name="LocalizableStrings.ExecuteButtonCaption.Value" Value="Виконати" />
+			<Item Name="LocalizableStrings.EditorResizeHint.Value" Value="Потягніть, щоб змінити висоту редактора" />
+			<Item Name="LocalizableStrings.SearchPlaceholder.Value" Value="Пошук..." />
+			<Item Name="LocalizableStrings.RowLimitLabel.Value" Value="Рядків:" />
+			<Item Name="LocalizableStrings.ExecutionTimeMessage.Value" Value="Час виконання: {0} с" />
+			<Item Name="LocalizableStrings.AccessDeniedMessage.Value" Value="Доступ заборонено: операція CanUseSqlConsole недоступна." />
+			<Item Name="LocalizableStrings.UnknownErrorMessage.Value" Value="Невідома помилка" />
+			<Item Name="LocalizableStrings.RowsAffectedMessage.Value" Value="Змінено рядків: {0}" />
+			<Item Name="LocalizableStrings.ResultCaption.Value" Value="Результат {0}" />
+			<Item Name="LocalizableStrings.RowsShownHint.Value" Value="Показано: {0}" />
+			<Item Name="LocalizableStrings.RowsFoundHint.Value" Value="знайдено: {0}" />
+			<Item Name="LocalizableStrings.RowsTotalHint.Value" Value="усього: {0}" />
+			<Item Name="LocalizableStrings.ExecutingMessage.Value" Value="Виконується... {0} с" />
+			<Item Name="LocalizableStrings.PanelsResizeHint.Value" Value="Потягніть, щоб змінити розмір панелей" />
+		</Items>
+	</Group>
+</Resources>

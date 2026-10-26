@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CopilotAgentsPage.Value" Value="Creatio.ai agents" />
+			<Item Name="LocalizableStrings.ExtAccessSectionCaption.Value" Value="Externe toegang" />
+			<Item Name="LocalizableStrings.FileImportLinkCaption.Value" Value="Data importeren" />
+			<Item Name="LocalizableStrings.LanguageSectionCaption.Value" Value="Talen" />
+			<Item Name="LocalizableStrings.LdapLinkCaption.Value" Value="LDAP integratie instellen" />
+			<Item Name="LocalizableStrings.ScoringModelCaption.Value" Value="Score modellen" />
+			<Item Name="LocalizableStrings.SsoSettingsCaption.Value" Value="Single Sign On configuration" />
+			<Item Name="LocalizableStrings.TranslationSectionCaption.Value" Value="Vertaling" />
+			<Item Name="LocalizableStrings.WebServicesCaption.Value" Value="Web services integration setup" />
+			<Item Name="LocalizableStrings.SqlConsoleCaption.Value" Value="SQL-queryconsole" />
+			<Item Name="LocalizableStrings.TechnicalUsersSectionLinkCaption.Value" Value="Technische gebruikers" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SQL 資料庫類型" />
+			<Item Name="Columns.SamColor.Caption" Value="色彩" />
+		</Items>
+	</Group>
+</Resources>

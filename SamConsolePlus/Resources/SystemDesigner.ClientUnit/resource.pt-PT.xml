@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-PT">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CopilotAgentsPage.Value" Value="Agentes Creatio.ai" />
+			<Item Name="LocalizableStrings.ExtAccessSectionCaption.Value" Value="Acesso Externo" />
+			<Item Name="LocalizableStrings.FileImportLinkCaption.Value" Value="Importação de dados" />
+			<Item Name="LocalizableStrings.LanguageSectionCaption.Value" Value="Idiomas" />
+			<Item Name="LocalizableStrings.LdapLinkCaption.Value" Value="Configuração de integração com LDAP" />
+			<Item Name="LocalizableStrings.ScoringModelCaption.Value" Value="Templates de pontuação" />
+			<Item Name="LocalizableStrings.SsoSettingsCaption.Value" Value="Configuração de Single Sign On" />
+			<Item Name="LocalizableStrings.TranslationSectionCaption.Value" Value="Tradução" />
+			<Item Name="LocalizableStrings.WebServicesCaption.Value" Value="Configuração de integração de Web services" />
+			<Item Name="LocalizableStrings.SqlConsoleCaption.Value" Value="Consola de consultas SQL" />
+			<Item Name="LocalizableStrings.TechnicalUsersSectionLinkCaption.Value" Value="Utilizadores técnicos" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CopilotAgentsPage.Value" Value="Creatio.ai agents" />
+			<Item Name="LocalizableStrings.ExtAccessSectionCaption.Value" Value="Externí přístup" />
+			<Item Name="LocalizableStrings.FileImportLinkCaption.Value" Value="Import dat" />
+			<Item Name="LocalizableStrings.LanguageSectionCaption.Value" Value="Jazyky" />
+			<Item Name="LocalizableStrings.LdapLinkCaption.Value" Value="Nastavení integrace LDAP" />
+			<Item Name="LocalizableStrings.ScoringModelCaption.Value" Value="Scoringové modely" />
+			<Item Name="LocalizableStrings.SsoSettingsCaption.Value" Value="Single Sign On configuration" />
+			<Item Name="LocalizableStrings.TranslationSectionCaption.Value" Value="Překlad" />
+			<Item Name="LocalizableStrings.WebServicesCaption.Value" Value="Nastavení integrace webových služeb" />
+			<Item Name="LocalizableStrings.SqlConsoleCaption.Value" Value="Konzole SQL dotazů" />
+			<Item Name="LocalizableStrings.TechnicalUsersSectionLinkCaption.Value" Value="Technickí uživatelé" />
+		</Items>
+	</Group>
+</Resources>

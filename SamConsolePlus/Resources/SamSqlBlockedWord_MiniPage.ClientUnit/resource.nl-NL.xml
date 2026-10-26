@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Minipagina geblokkeerd woord van SQL-console" />
+			<Item Name="LocalizableStrings.Button_SetRecordRights_title.Value" Value="Toegangsrechten" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Regjistri i konsolës SQL" />
+			<Item Name="Columns.CompletedOn.Caption" Value="Përfunduar më" />
+			<Item Name="Columns.Contact.Caption" Value="Kontakti" />
+			<Item Name="Columns.IpAdress.Caption" Value="Adresa IP" />
+			<Item Name="Columns.QueryText.Caption" Value="Teksti i pyetjes" />
+			<Item Name="EventsProcessSchema.Caption" Value="Objekti bazë" />
+		</Items>
+	</Group>
+</Resources>

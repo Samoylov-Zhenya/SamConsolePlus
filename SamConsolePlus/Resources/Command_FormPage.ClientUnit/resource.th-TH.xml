@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="หน้าแบบฟอร์มคำสั่ง" />
+			<Item Name="LocalizableStrings.ListAction_AddDatabaseType_caption.Value" Value="เพิ่มใหม่" />
+		</Items>
+	</Group>
+</Resources>

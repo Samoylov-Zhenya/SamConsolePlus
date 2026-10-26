@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="명령" />
+			<Item Name="Columns.SamCode.Caption" Value="코드" />
+			<Item Name="Columns.SamName.Caption" Value="이름" />
+			<Item Name="Columns.SamSqlDatabaseType.Caption" Value="SQL 데이터베이스 유형" />
+		</Items>
+	</Group>
+</Resources>

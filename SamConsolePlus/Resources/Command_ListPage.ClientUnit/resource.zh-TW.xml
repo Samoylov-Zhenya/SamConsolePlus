@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="命令清單頁面" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="SQL 查詢主控台" />
+			<Item Name="LocalizableStrings.Input_69u02zt_label.Value" Value="文字" />
+			<Item Name="LocalizableStrings.Input_69u02zt_placeholder.Value" Value="SQL 命令" />
+			<Item Name="LocalizableStrings.Input_69u02zt_tooltip.Value" Value="您可以在此撰寫要執行的程式碼" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_caption.Value" Value="快速篩選" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_config_caption.Value" Value="資料庫類型" />
+			<Item Name="LocalizableStrings.QuickFilter_DatabaseType_config_hint.Value" Value="依資料庫類型篩選" />
+			<Item Name="LocalizableStrings.PDS_SamSqlDatabaseType.Value" Value="資料庫類型" />
+			<Item Name="LocalizableStrings.Button_InsertCommand_title.Value" Value="插入主控台" />
+			<Item Name="LocalizableStrings.MenuItem_InsertCommand_caption.Value" Value="插入主控台" />
+			<Item Name="LocalizableStrings.DataGrid_BlockedWordsDS_Name.Value" Value="字詞" />
+			<Item Name="LocalizableStrings.MenuItem_OpenBlockedWord_caption.Value" Value="開啟" />
+			<Item Name="LocalizableStrings.MenuItem_DeleteBlockedWord_caption.Value" Value="刪除" />
+			<Item Name="LocalizableStrings.TabContainer_Commands_caption.Value" Value="命令" />
+			<Item Name="LocalizableStrings.TabContainer_BlockedWords_caption.Value" Value="封鎖字詞" />
+			<Item Name="LocalizableStrings.SearchFilter_BlockedWords_placeholder.Value" Value="搜尋" />
+			<Item Name="LocalizableStrings.Button_AddBlockedWord_title.Value" Value="新增封鎖字詞" />
+			<Item Name="LocalizableStrings.Button_RefreshBlockedWords_title.Value" Value="重新整理" />
+			<Item Name="LocalizableStrings.TabContainer_Logs_caption.Value" Value="記錄" />
+			<Item Name="LocalizableStrings.Button_RefreshLogs_title.Value" Value="重新整理" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_CreatedOn.Value" Value="開始時間" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_Contact.Value" Value="使用者" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_QueryText.Value" Value="查詢文字" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_CompletedOn.Value" Value="完成時間" />
+			<Item Name="LocalizableStrings.DataGrid_LogsDS_IpAdress.Value" Value="IP 位址" />
+		</Items>
+	</Group>
+</Resources>
